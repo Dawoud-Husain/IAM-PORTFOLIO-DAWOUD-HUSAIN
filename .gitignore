@@ -1,0 +1,75 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*~
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# Personal Notes (if you want to keep some notes private)
+# personal-notes/
+# scratch/
+
+# Sensitive Information
+*.key
+*.pem
+*.crt
+*.cer
+*.p12
+*.pfx
+credentials.txt
+secrets.txt
+.env
+.env.local
+
+# Temporary Files
+*.tmp
+*.temp
+*.log
+*.bak
+*.cache
+
+# Lab Screenshots (optional - uncomment if screenshots are large/private)
+# */screenshots/*.png
+# */screenshots/*.jpg
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Certificates and Keys (NEVER commit these)
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Practice Test Results (if you want to keep them private)
+# practice-tests/*-results.md
+
+# Notes
+# Keep study notes but ignore any marked as personal
+**/personal/
+**/private/
