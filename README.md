@@ -48,8 +48,8 @@ Right now I'm working on:
 
 I'm actively seeking opportunities in IAM and cybersecurity roles. Let's talk about how I can contribute to your team's security posture.
 
-**LinkedIn:** [Your LinkedIn]
-**Email:** [Your Email]
+**LinkedIn:** [https://www.linkedin.com/in/dawoud-husain/](https://www.linkedin.com/in/dawoud-husain/)
+**Email:** dawoudhusain25@gmail.com
 
 ---
 
