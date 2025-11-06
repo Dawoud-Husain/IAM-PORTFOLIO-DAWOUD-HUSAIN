@@ -1,0 +1,7 @@
+version:v1.0
+Name [displayName] Required,User name [userPrincipalName] Required,Initial password [passwordProfile] Required,Block sign in (Yes/No) [accountEnabled] Required,First name [givenName],Last name [surname],Job title [jobTitle],Department [department],Usage location [usageLocation],Street address [streetAddress],State or province [state],Country or region [country],Office [physicalDeliveryOfficeName],City [city],ZIP or postal code [postalCode],Office phone [telephoneNumber],Mobile phone [mobile]
+Chris Green,cgreen@dawoudhusain25gmail.onmicrosoft.com,Pass@word1,No,Chris,Green,Marketing Manager,Marketing,US,123 Marketing St,WA,United States,Building 1,Seattle,98101,555-1001,555-2001
+Ben Andrews,bandrews@dawoudhusain25gmail.onmicrosoft.com,Pass@word1,No,Ben,Andrews,Sales Representative,Sales,US,456 Sales Ave,CA,United States,Building 2,Los Angeles,90001,555-1002,555-2002
+David Longmuir,dlongmuir@dawoudhusain25gmail.onmicrosoft.com,Pass@word1,No,David,Longmuir,IT Administrator,IT,US,789 Tech Blvd,TX,United States,Building 3,Austin,73301,555-1003,555-2003
+Cynthia Carey,ccarey@dawoudhusain25gmail.onmicrosoft.com,Pass@word1,No,Cynthia,Carey,HR Manager,Human Resources,US,321 HR Lane,NY,United States,Building 4,New York,10001,555-1004,555-2004
+Jane Miller,jmiller@dawoudhusain25gmail.onmicrosoft.com,Pass@word1,No,Jane,Miller,Finance Analyst,Finance,US,654 Finance Dr,IL,United States,Building 5,Chicago,60601,555-1005,555-2005
