@@ -23,7 +23,8 @@ Hands-on lab practicing fundamental identity and access management tasks in Micr
 
 Created individual user accounts including `user1` and configured user principal names in the default directory. Demonstrated understanding of user identity formats and authentication setup.
 
-**Screenshot:** [new-user.png](screenshots/new-user.png) - Shows users successfully created in the Microsoft Entra admin center
+![User Creation](screenshots/new-user.png)
+*Users successfully created in the Microsoft Entra admin center*
 
 ### Task 3: Bulk User Creation
 
@@ -36,19 +37,22 @@ Leveraged bulk operations to efficiently create multiple user accounts using CSV
 
 This demonstrates scalability for enterprise onboarding scenarios where manual user creation would be inefficient.
 
-**Screenshot:** [bulk-users.png](screenshots/bulk-users.png) - Bulk create users operation showing successful CSV upload and user provisioning
+![Bulk User Creation](screenshots/bulk-users.png)
+*Bulk create users operation showing successful CSV upload and user provisioning*
 
 ### Task 4: Invite External Users
 
 Configured external user collaboration by inviting guest users to the directory. This enables secure cross-organization collaboration while maintaining proper access boundaries.
 
-**Screenshot:** [invited-user.png](screenshots/invited-user.png) - External guest user with "Invitation" creation type
+![External User Invitation](screenshots/invited-user.png)
+*External guest user with "Invitation" creation type*
 
 ### Task 5: Assign Administrative Roles
 
 Implemented role-based access control by assigning the **Attribute Assignment Reader** role to `user1`. This role provides read-only access to custom security attribute keys and values, demonstrating least privilege access principles.
 
-**Screenshot:** [user1-assignedrole.png](screenshots/user1-assignedrole.png) - Administrative role assignment for user1
+![Role Assignment](screenshots/user1-assignedrole.png)
+*Administrative role assignment for user1*
 
 ### Cleanup
 
