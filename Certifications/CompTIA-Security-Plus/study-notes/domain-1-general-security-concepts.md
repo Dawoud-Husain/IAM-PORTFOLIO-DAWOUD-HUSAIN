@@ -45,60 +45,60 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
 - [ ] **Watched Professor Messer's "Security Controls" video**
 
 #### Security Control Categories
-- [ ] **Technical controls**
+- [ ] 💻 **Technical controls**
   - Controls implemented using systems
   - Operating system controls
   - Firewalls, anti-virus
 
-- [ ] **Managerial controls**
+- [ ] 📋 **Managerial controls**
   - Administrative controls
   - Security policies, standard operating procedures
 
-- [ ] **Operational controls**
+- [ ] 👥 **Operational controls**
   - Controls implemented by people instead of systems
   - Security guards, awareness programs
 
-- [ ] **Physical controls**
+- [ ] 🔒 **Physical controls**
   - Limit physical access
   - Guard shack, fences, locks, badge readers
 
 #### Security Control Types
-- [ ] **Preventive**
+- [ ] 🛡️ **Preventive**
   - Block access to a resource - "you shall not pass"
   - Technical: Firewall rules
   - Managerial: Follow security policy
   - Operational: Guard shack checks identification
   - Physical: Door locks
 
-- [ ] **Deterrent**
+- [ ] ⚠️ **Deterrent**
   - Discourage an intrusion attempt - does not directly prevent access
   - Technical: Application splash screen
   - Managerial: Demotion
   - Operational: Reception desk
   - Physical: Warning sign
 
-- [ ] **Detective**
+- [ ] 🔍 **Detective**
   - Identify and log an intrusion attempt - may not prevent access
   - Technical: System logs
   - Managerial: Review login reports
   - Operational: Property patrols
   - Physical: Motion detectors
 
-- [ ] **Corrective**
+- [ ] 🔧 **Corrective**
   - Apply a control after event has been detected - reverse impact - continue operating with minimal downtime
   - Technical: Backup recovery
   - Managerial: Policies for reporting issues
   - Operational: Contact authorities
   - Physical: Fire extinguisher
 
-- [ ] **Compensating**
+- [ ] 🔄 **Compensating**
   - Control using other means - existing controls aren't sufficient, may be temporary
   - Technical: Block instead of patch
   - Managerial: Separation of duties
   - Operational: Require multiple security staff
   - Physical: Power generator
 
-- [ ] **Directive**
+- [ ] 📢 **Directive**
   - Direct a subject towards security compliance - weak security control
   - Technical: File storage policies
   - Managerial: Compliance policies
@@ -116,42 +116,42 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
 - [ ] **Watched Professor Messer's "The CIA Triad" video**
 
 ##### CIA Triad Components
-- [ ] **Confidentiality**
+- [ ] 🔐 **Confidentiality**
   - Prevent disclosure of information to unauthorized individuals or systems
   - Encryption, access controls, two-factor authentication
 
-- [ ] **Integrity**
+- [ ] ✅ **Integrity**
   - Messages cannot be modified without detection
   - Hashing, digital signatures, certificates, non-repudiation
 
-- [ ] **Availability**
+- [ ] ⚡ **Availability**
   - Systems and networks must be up and running
   - Redundancy, fault tolerance, patching
 
 #### Video 2: Non-repudiation
 - [ ] **Watched Professor Messer's "Non-repudiation" video**
-- [ ] **Non-repudiation concepts**
+- [ ] ✍️ **Non-repudiation concepts**
   - Cannot deny what you've said - like a contract
   - Proof of integrity and origin
   - Digital signatures provide non-repudiation
 
 #### Video 3: Authentication, Authorization, and Accounting (AAA)
 - [ ] **Watched Professor Messer's "AAA" video**
-- [ ] **Authentication**
+- [ ] 🔑 **Authentication**
   - Proving who you are
   - Username/password, biometrics, MFA
 
-- [ ] **Authorization**
+- [ ] 🚪 **Authorization**
   - What resources you can access
   - Permissions and access control lists
 
-- [ ] **Accounting**
+- [ ] 📊 **Accounting**
   - Tracking what users do
   - Logging, auditing, monitoring
 
 #### Video 4: Gap Analysis
 - [ ] **Watched Professor Messer's "Gap Analysis" video**
-- [ ] **Gap analysis process**
+- [ ] 📏 **Gap analysis process**
   - Compare current state vs. desired state
   - Identify security gaps
   - Create remediation plan
@@ -159,7 +159,7 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
 
 #### Video 5: Zero Trust
 - [ ] **Watched Professor Messer's "Zero Trust" video**
-- [ ] **Zero Trust principles**
+- [ ] 🎯 **Zero Trust principles**
   - Never trust, always verify
   - Assume breach mentality
   - Least privilege access
@@ -168,7 +168,7 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
 
 #### Video 6: Physical Security
 - [ ] **Watched Professor Messer's "Physical Security" video**
-- [ ] **Physical security controls**
+- [ ] 🏢 **Physical security controls**
   - Fences, gates, bollards
   - Security guards and reception
   - Badge readers and biometrics
@@ -178,12 +178,12 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
 
 #### Video 7: Deception and Disruption
 - [ ] **Watched Professor Messer's "Deception and Disruption" video**
-- [ ] **Deception technologies**
+- [ ] 🪤 **Deception technologies**
   - Honeypots - decoy systems
   - Honeynets - network of honeypots
   - Honeyfiles - fake files
   - Honeytokens - fake data
-- [ ] **Disruption techniques**
+- [ ] 💥 **Disruption techniques**
   - Confuse and delay attackers
   - Gather intelligence on attack methods
 
@@ -198,27 +198,27 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
 - [ ] **Watched Professor Messer's "Change Management" video**
 
 ##### Change Management Process
-- [ ] **Change approval process**
+- [ ] ✓ **Change approval process**
   - Request for change (RFC)
   - Change management board/committee reviews
   - Documented approval process
 
-- [ ] **Impact analysis**
+- [ ] 📈 **Impact analysis**
   - Business processes impacting security
   - Risk assessment
   - Scope of changes
 
-- [ ] **Change documentation**
+- [ ] 📝 **Change documentation**
   - Detailed change plans
   - Rollback procedures
   - Version control
 
-- [ ] **Testing and validation**
+- [ ] 🧪 **Testing and validation**
   - Test in non-production environment
   - Validate changes before deployment
   - User acceptance testing (UAT)
 
-- [ ] **Change implementation**
+- [ ] ⚙️ **Change implementation**
   - Schedule maintenance windows
   - Execute change plan
   - Monitor for issues
@@ -227,37 +227,37 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
 - [ ] **Watched Professor Messer's "Technical Change Management" video**
 
 ##### Technical Change Components
-- [ ] **Allow lists/deny lists**
+- [ ] 📋 **Allow lists/deny lists**
   - Restrict or allow changes
   - Application whitelisting
   - Access control lists
 
-- [ ] **Downtime considerations**
+- [ ] ⏱️ **Downtime considerations**
   - Plan for service interruptions
   - Communicate maintenance windows
   - Minimize impact on operations
 
-- [ ] **Restarts and reboots**
+- [ ] 🔄 **Restarts and reboots**
   - System restart requirements
   - Service dependencies
   - Proper restart procedures
 
-- [ ] **Legacy applications**
+- [ ] 🏛️ **Legacy applications**
   - Compatibility concerns
   - Testing with older systems
   - Migration planning
 
-- [ ] **Dependencies**
+- [ ] 🔗 **Dependencies**
   - Identify system interdependencies
   - Test dependent systems
   - Document relationships
 
-- [ ] **Documentation**
+- [ ] 📄 **Documentation**
   - Version control systems
   - Change logs
   - Configuration management database (CMDB)
 
-- [ ] **Standard operating procedures (SOPs)**
+- [ ] 📖 **Standard operating procedures (SOPs)**
   - Documented processes
   - Consistent implementation
   - Training materials
@@ -273,19 +273,19 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
 - [ ] **Watched Professor Messer's "Public Key Infrastructure" video**
 
 ##### PKI Components
-- [ ] **Public Key Infrastructure (PKI)**
+- [ ] 🔐 **Public Key Infrastructure (PKI)**
   - Framework for managing digital certificates
   - Certificate authorities (CA)
   - Registration authorities (RA)
   - Certificate revocation lists (CRL)
   - Online Certificate Status Protocol (OCSP)
 
-- [ ] **Trust models**
+- [ ] 🤝 **Trust models**
   - Single CA
   - Hierarchical CA
   - Mesh/distributed trust
 
-- [ ] **Certificate lifecycle**
+- [ ] ♻️ **Certificate lifecycle**
   - Creation and issuance
   - Validation and renewal
   - Revocation and expiration
@@ -294,19 +294,19 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
 - [ ] **Watched Professor Messer's "Encryption Technologies" video**
 
 ##### Encryption Types
-- [ ] **Symmetric encryption**
+- [ ] 🔑 **Symmetric encryption**
   - Same key for encryption and decryption
   - Fast and efficient
   - Key distribution challenge
   - Algorithms: AES, DES, 3DES, RC4, Blowfish
 
-- [ ] **Asymmetric encryption**
+- [ ] 🗝️ **Asymmetric encryption**
   - Public and private key pair
   - Public key encrypts, private key decrypts
   - Slower than symmetric
   - Algorithms: RSA, ECC (Elliptic Curve Cryptography), DSA
 
-- [ ] **Key length**
+- [ ] 📏 **Key length**
   - Longer keys = stronger encryption
   - Balance between security and performance
 
@@ -314,33 +314,33 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
 - [ ] **Watched Professor Messer's "Encrypting Data" video**
 
 ##### Encryption Levels
-- [ ] **Full-disk encryption (FDE)**
+- [ ] 💾 **Full-disk encryption (FDE)**
   - Encrypt entire drive
   - BitLocker, FileVault, LUKS
   - Protects data at rest
 
-- [ ] **Partition encryption**
+- [ ] 🗂️ **Partition encryption**
   - Encrypt specific partitions
   - Selective protection
 
-- [ ] **File encryption**
+- [ ] 📁 **File encryption**
   - Encrypt individual files
   - EFS (Encrypting File System)
   - GPG/PGP
 
-- [ ] **Volume encryption**
+- [ ] 📦 **Volume encryption**
   - Encrypt volumes/containers
   - VeraCrypt, TrueCrypt
 
-- [ ] **Database encryption**
+- [ ] 🗄️ **Database encryption**
   - Encrypt database fields
   - Transparent Data Encryption (TDE)
 
-- [ ] **Record-level encryption**
+- [ ] 📝 **Record-level encryption**
   - Encrypt specific records
   - Granular control
 
-- [ ] **Transport/communication encryption**
+- [ ] 🌐 **Transport/communication encryption**
   - TLS/SSL for network traffic
   - VPNs (IPsec, SSL/TLS VPN)
   - SSH for remote access
@@ -349,63 +349,63 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
 - [ ] **Watched Professor Messer's "Hashing and Digital Signatures" video**
 
 ##### Hashing Concepts
-- [ ] **Hash functions**
+- [ ] #️⃣ **Hash functions**
   - One-way function
   - Fixed-length output
   - Verify data integrity
   - Algorithms: MD5 (weak), SHA-1 (deprecated), SHA-2 (SHA-256, SHA-512), SHA-3
 
-- [ ] **Hash collision**
+- [ ] 💥 **Hash collision**
   - Two inputs produce same hash
   - Security weakness
 
-- [ ] **Salting**
+- [ ] 🧂 **Salting**
   - Add random data to input
   - Prevents rainbow table attacks
   - Unique salt per password
 
-- [ ] **Key stretching**
+- [ ] 🏋️ **Key stretching**
   - PBKDF2 (Password-Based Key Derivation Function 2)
   - Bcrypt
   - Makes brute force attacks slower
 
-- [ ] **HMAC**
+- [ ] 🔏 **HMAC**
   - Hash-based Message Authentication Code
   - Verify integrity and authenticity
   - Uses secret key with hash
 
 ##### Digital Signatures
-- [ ] **Digital signature process**
+- [ ] ✍️ **Digital signature process**
   - Hash document
   - Encrypt hash with private key
   - Verify with public key
   - Provides: authenticity, integrity, non-repudiation
 
-- [ ] **Digital Signature Algorithm (DSA)**
-- [ ] **RSA for digital signatures**
+- [ ] 🔐 **Digital Signature Algorithm (DSA)**
+- [ ] 🔏 **RSA for digital signatures**
 
 #### Video 5: Key Exchange
 - [ ] **Watched Professor Messer's "Key Exchange" video**
 
 ##### Key Exchange Methods
-- [ ] **Out-of-band key exchange**
+- [ ] 📞 **Out-of-band key exchange**
   - Separate communication channel
   - Phone, in-person, courier
 
-- [ ] **In-band key exchange**
+- [ ] 🔗 **In-band key exchange**
   - Same communication channel
   - Diffie-Hellman
 
-- [ ] **Diffie-Hellman (DH)**
+- [ ] 🤝 **Diffie-Hellman (DH)**
   - Key agreement protocol
   - Establish shared secret
   - DHE (Ephemeral), ECDHE (Elliptic Curve)
 
-- [ ] **Perfect Forward Secrecy (PFS)**
+- [ ] 🛡️ **Perfect Forward Secrecy (PFS)**
   - Session keys not compromised if long-term key compromised
   - Uses ephemeral keys
 
-- [ ] **Key escrow**
+- [ ] 🏦 **Key escrow**
   - Third party holds decryption keys
   - Recovery option
   - Privacy concerns
@@ -414,22 +414,22 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
 - [ ] **Watched Professor Messer's "Obfuscation" video**
 
 ##### Obfuscation Techniques
-- [ ] **Code obfuscation**
+- [ ] 🌫️ **Code obfuscation**
   - Make code difficult to understand
   - Protect intellectual property
   - Security through obscurity (not recommended as sole security)
 
-- [ ] **Steganography**
+- [ ] 🖼️ **Steganography**
   - Hide data within other data
   - Images, audio, video files
   - Not encryption, just hiding
 
-- [ ] **Tokenization**
+- [ ] 🎫 **Tokenization**
   - Replace sensitive data with token
   - Token has no meaning outside system
   - Common in payment processing
 
-- [ ] **Data masking**
+- [ ] 🎭 **Data masking**
   - Hide original data
   - Show only necessary parts (e.g., last 4 digits of SSN)
   - Protects PII
@@ -438,28 +438,28 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
 - [ ] **Watched Professor Messer's "Blockchain Technology" video**
 
 ##### Blockchain Concepts
-- [ ] **Distributed ledger**
+- [ ] 📒 **Distributed ledger**
   - Decentralized database
   - Multiple copies across network
   - No single point of control
 
-- [ ] **Blockchain characteristics**
+- [ ] ⛓️ **Blockchain characteristics**
   - Immutable records
   - Transparent and verifiable
   - Consensus mechanisms
 
-- [ ] **Blocks**
+- [ ] 🧱 **Blocks**
   - Container for data
   - Hash of previous block
   - Timestamp
   - Creates chain
 
-- [ ] **Smart contracts**
+- [ ] 📜 **Smart contracts**
   - Self-executing contracts
   - Code-based agreements
   - Automated enforcement
 
-- [ ] **Blockchain applications**
+- [ ] 💎 **Blockchain applications**
   - Cryptocurrencies (Bitcoin, Ethereum)
   - Supply chain tracking
   - Digital identity
@@ -469,12 +469,12 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
 - [ ] **Watched Professor Messer's "Certificates" video**
 
 ##### Certificate Types and Uses
-- [ ] **Digital certificates**
+- [ ] 📜 **Digital certificates**
   - X.509 standard
   - Bind public key to identity
   - Issued by Certificate Authority
 
-- [ ] **Certificate contents**
+- [ ] 📄 **Certificate contents**
   - Subject name
   - Public key
   - Issuer information
@@ -482,25 +482,25 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
   - Serial number
   - Digital signature
 
-- [ ] **Certificate types**
+- [ ] 🏷️ **Certificate types**
   - Domain Validation (DV)
   - Organization Validation (OV)
   - Extended Validation (EV)
   - Wildcard certificates
   - Subject Alternative Name (SAN)
 
-- [ ] **Certificate formats**
+- [ ] 📋 **Certificate formats**
   - PEM (Privacy Enhanced Mail)
   - DER (Distinguished Encoding Rules)
   - PFX/P12 (PKCS#12)
   - CER, CRT
 
-- [ ] **Certificate pinning**
+- [ ] 📌 **Certificate pinning**
   - Associate certificate with host
   - Prevent man-in-the-middle attacks
   - Mobile apps
 
-- [ ] **Certificate chaining**
+- [ ] 🔗 **Certificate chaining**
   - Root CA → Intermediate CA → End certificate
   - Chain of trust
 
