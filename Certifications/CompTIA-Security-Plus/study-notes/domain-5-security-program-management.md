@@ -47,57 +47,57 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
 - [ ] **Watched Professor Messer's "Security Policies" video**
 
 ##### Policy Types
-- [ ] **Information security policies**
+- [ ] 📋 **Information security policies**
   - Overall security framework
   - High-level statements
   - Board-approved
   - Organization-wide scope
 
-- [ ] **Acceptable Use Policy (AUP)**
+- [ ] ✅ **Acceptable Use Policy (AUP)**
   - Define acceptable use of resources
   - Internet usage
   - Email usage
   - Social media guidelines
   - Personal device usage
 
-- [ ] **Business continuity**
+- [ ] 🔄 **Business continuity**
   - Maintain operations during disruption
   - Critical business functions
   - Recovery procedures
   - Communication plans
 
-- [ ] **Disaster recovery**
+- [ ] 🚨 **Disaster recovery**
   - Restore IT systems
   - After major incident
   - Recovery time objectives
   - Technical procedures
 
-- [ ] **Incident response policy**
+- [ ] 🚨 **Incident response policy**
   - How to respond to incidents
   - Roles and responsibilities
   - Escalation procedures
   - Reporting requirements
 
-- [ ] **Software development lifecycle (SDLC)**
+- [ ] 💻 **Software development lifecycle (SDLC)**
   - Secure development practices
   - Security at each phase
   - Code review requirements
   - Testing procedures
 
-- [ ] **Change management policy**
+- [ ] 🔄 **Change management policy**
   - Control changes to production
   - Approval process
   - Testing requirements
   - Documentation standards
 
 ##### Policy Characteristics
-- [ ] **Policy framework**
+- [ ] 🏛️ **Policy framework**
   - Policies (high-level)
   - Standards (specific requirements)
   - Procedures (step-by-step)
   - Guidelines (recommendations)
 
-- [ ] **Policy development**
+- [ ] 📝 **Policy development**
   - Identify requirements
   - Draft policy
   - Review and approval
@@ -108,69 +108,69 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
 - [ ] **Watched Professor Messer's "Security Standards" video**
 
 ##### Standards Frameworks
-- [ ] **NIST (National Institute of Standards and Technology)**
+- [ ] 🏛️ **NIST (National Institute of Standards and Technology)**
   - NIST Cybersecurity Framework (CSF)
   - NIST SP 800 series
   - Risk Management Framework (RMF)
   - U.S. government standard
 
-- [ ] **ISO/IEC 27001**
+- [ ] 📜 **ISO/IEC 27001**
   - Information Security Management System (ISMS)
   - International standard
   - Certification available
   - Risk-based approach
 
-- [ ] **ISO/IEC 27002**
+- [ ] 📖 **ISO/IEC 27002**
   - Security controls catalog
   - Best practice guidelines
   - Implementation guidance
   - Companion to 27001
 
-- [ ] **ISO/IEC 27701**
+- [ ] 🔒 **ISO/IEC 27701**
   - Privacy extension to 27001/27002
   - Privacy Information Management System (PIMS)
   - GDPR alignment
 
-- [ ] **ISO 31000**
+- [ ] ⚖️ **ISO 31000**
   - Risk management guidelines
   - Organization-wide risk management
   - Risk assessment process
 
 ##### Industry-Specific Standards
-- [ ] **PCI DSS (Payment Card Industry Data Security Standard)**
+- [ ] 💳 **PCI DSS (Payment Card Industry Data Security Standard)**
   - Credit card data protection
   - Merchant requirements
   - Annual compliance
   - 12 requirements, 6 goals
 
-- [ ] **HIPAA (Health Insurance Portability and Accountability Act)**
+- [ ] 🏥 **HIPAA (Health Insurance Portability and Accountability Act)**
   - Healthcare data protection
   - PHI (Protected Health Information)
   - Privacy Rule
   - Security Rule
   - Breach Notification Rule
 
-- [ ] **GDPR (General Data Protection Regulation)**
+- [ ] 🇪🇺 **GDPR (General Data Protection Regulation)**
   - EU privacy regulation
   - Personal data protection
   - Data subject rights
   - Significant fines for violations
   - Global impact
 
-- [ ] **SOX (Sarbanes-Oxley Act)**
+- [ ] 📊 **SOX (Sarbanes-Oxley Act)**
   - Financial reporting
   - Internal controls
   - Public companies
   - IT controls
 
 ##### Security Control Frameworks
-- [ ] **CIS Controls**
+- [ ] 🛡️ **CIS Controls**
   - Center for Internet Security
   - Prioritized security actions
   - 18 controls
   - Implementation Groups (IG1, IG2, IG3)
 
-- [ ] **COBIT (Control Objectives for Information and Related Technologies)**
+- [ ] 📊 **COBIT (Control Objectives for Information and Related Technologies)**
   - IT governance framework
   - ISACA standard
   - Business alignment
@@ -180,7 +180,7 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
 - [ ] **Watched Professor Messer's "Security Procedures" video**
 
 ##### Standard Operating Procedures
-- [ ] **Change management procedures**
+- [ ] 🔄 **Change management procedures**
   - Request process
   - Approval workflow
   - Testing requirements
@@ -188,7 +188,7 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
   - Rollback procedures
   - Documentation
 
-- [ ] **Onboarding procedures**
+- [ ] ➕ **Onboarding procedures**
   - New hire process
   - Account creation
   - Access provisioning
@@ -196,7 +196,7 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
   - Equipment issuance
   - NDA signing
 
-- [ ] **Offboarding procedures**
+- [ ] ➖ **Offboarding procedures**
   - Termination process
   - Account disablement
   - Access revocation
@@ -204,14 +204,14 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
   - Exit interview
   - Knowledge transfer
 
-- [ ] **Playbooks**
+- [ ] 📘 **Playbooks**
   - Documented procedures
   - Step-by-step instructions
   - Decision trees
   - Runbooks for operations
 
 ##### Operational Procedures
-- [ ] **Incident response procedures**
+- [ ] 🚨 **Incident response procedures**
   - Detection and reporting
   - Triage and analysis
   - Containment steps
@@ -219,7 +219,7 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
   - Recovery procedures
   - Post-incident review
 
-- [ ] **Backup procedures**
+- [ ] 💾 **Backup procedures**
   - Backup schedule
   - Backup types
   - Verification steps
@@ -227,7 +227,7 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
   - Retention periods
   - Restoration testing
 
-- [ ] **Patch management procedures**
+- [ ] 🔧 **Patch management procedures**
   - Patch identification
   - Testing process
   - Deployment schedule
@@ -238,51 +238,51 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
 - [ ] **Watched Professor Messer's "Security Considerations" video**
 
 ##### Regulatory Requirements
-- [ ] **Compliance obligations**
+- [ ] ✅ **Compliance obligations**
   - Industry regulations
   - Geographic requirements
   - Contractual obligations
   - Legal mandates
 
-- [ ] **Data sovereignty**
+- [ ] 🌍 **Data sovereignty**
   - Data location requirements
   - National laws
   - Cross-border data transfer
   - Cloud considerations
 
-- [ ] **Right to be forgotten**
+- [ ] 🗑️ **Right to be forgotten**
   - GDPR requirement
   - Delete personal data
   - Data retention limits
   - User rights
 
 ##### Legal Considerations
-- [ ] **Legal implications**
+- [ ] ⚖️ **Legal implications**
   - Liability
   - Due diligence
   - Duty of care
   - Negligence
 
-- [ ] **Intellectual property**
+- [ ] 💡 **Intellectual property**
   - Patents, trademarks, copyrights
   - Trade secrets
   - Licensing
   - Protection mechanisms
 
-- [ ] **Licensing restrictions**
+- [ ] 📜 **Licensing restrictions**
   - Software licensing
   - User limits
   - Usage restrictions
   - Compliance audits
 
 ##### Industry Standards
-- [ ] **Best practices**
+- [ ] ✨ **Best practices**
   - Industry benchmarks
   - Peer comparisons
   - Maturity models
   - Continuous improvement
 
-- [ ] **Due diligence and due care**
+- [ ] 🔍 **Due diligence and due care**
   - Due diligence: Investigation and research
   - Due care: Taking action to protect
   - Legal requirements
@@ -292,39 +292,39 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
 - [ ] **Watched Professor Messer's "Data Roles and Responsibilities" video**
 
 ##### Data Roles
-- [ ] **Data owner**
+- [ ] 👑 **Data owner**
   - Business executive
   - Ultimate responsibility
   - Classification decisions
   - Access approval
   - Budget authority
 
-- [ ] **Data controller**
+- [ ] 🎯 **Data controller**
   - Determines purpose and means
   - GDPR term
   - Decision-making authority
   - Compliance responsibility
 
-- [ ] **Data processor**
+- [ ] ⚙️ **Data processor**
   - Processes data on behalf of controller
   - GDPR term
   - Third-party services
   - Contractual obligations
 
-- [ ] **Data custodian/steward**
+- [ ] 🔧 **Data custodian/steward**
   - IT staff
   - Day-to-day handling
   - Implement controls
   - Backup and recovery
   - Technical safeguards
 
-- [ ] **Data protection officer (DPO)**
+- [ ] 🛡️ **Data protection officer (DPO)**
   - GDPR requirement (in some cases)
   - Privacy expert
   - Compliance monitoring
   - Data protection authority liaison
 
-- [ ] **Data subject**
+- [ ] 👤 **Data subject**
   - Individual whose data is collected
   - GDPR rights
   - Access, rectification, erasure
@@ -341,13 +341,13 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
 - [ ] **Watched Professor Messer's "Risk Management" video**
 
 ##### Risk Management Basics
-- [ ] **Risk definition**
+- [ ] ⚠️ **Risk definition**
   - Likelihood of threat exploiting vulnerability
   - Impact on organization
   - Uncertainty
   - Measured and managed
 
-- [ ] **Risk assessment types**
+- [ ] 📋 **Risk assessment types**
   - **Ad hoc assessments**
     - As-needed basis
     - Specific concerns
@@ -359,7 +359,7 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
     - Continuous monitoring
     - Ongoing process
 
-- [ ] **Risk assessment methodologies**
+- [ ] 📊 **Risk assessment methodologies**
   - **Qualitative**
     - Subjective
     - Low, Medium, High
@@ -372,32 +372,32 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
     - More precise but time-consuming
 
 ##### Risk Factors
-- [ ] **Likelihood**
+- [ ] 📊 **Likelihood**
   - Probability of occurrence
   - Historical data
   - Threat intelligence
   - Environmental factors
 
-- [ ] **Impact**
+- [ ] 💥 **Impact**
   - Potential damage
   - Financial loss
   - Reputational harm
   - Operational disruption
   - Legal consequences
 
-- [ ] **Risk appetite**
+- [ ] 🎯 **Risk appetite**
   - Amount of risk organization willing to accept
   - Strategic decision
   - Board-level
   - Guides risk decisions
 
-- [ ] **Risk tolerance**
+- [ ] ⚖️ **Risk tolerance**
   - Acceptable variation from risk appetite
   - Specific thresholds
   - Operational level
   - Technical limits
 
-- [ ] **Risk threshold**
+- [ ] 🚧 **Risk threshold**
   - Limit of acceptable risk
   - Trigger for action
   - Risk vs. cost balance
@@ -406,55 +406,55 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
 - [ ] **Watched Professor Messer's "Risk Analysis" video**
 
 ##### Risk Analysis Methods
-- [ ] **Asset identification**
+- [ ] 🔍 **Asset identification**
   - Inventory assets
   - Determine value
   - Classify by importance
   - Prioritize protection
 
-- [ ] **Threat identification**
+- [ ] ⚠️ **Threat identification**
   - Internal threats
   - External threats
   - Natural disasters
   - Human threats
   - Technical threats
 
-- [ ] **Vulnerability identification**
+- [ ] 🔍 **Vulnerability identification**
   - Scanning
   - Assessments
   - Pentesting
   - Security audits
 
 ##### Quantitative Analysis
-- [ ] **Asset Value (AV)**
+- [ ] 💰 **Asset Value (AV)**
   - Monetary value of asset
   - Replacement cost
   - Revenue generation
   - Strategic value
 
-- [ ] **Exposure Factor (EF)**
+- [ ] 📊 **Exposure Factor (EF)**
   - Percentage of asset loss
   - If threat realized
   - 0% to 100%
 
-- [ ] **Single Loss Expectancy (SLE)**
+- [ ] 💵 **Single Loss Expectancy (SLE)**
   - SLE = AV × EF
   - Loss from single incident
   - Monetary value
 
-- [ ] **Annual Rate of Occurrence (ARO)**
+- [ ] 📅 **Annual Rate of Occurrence (ARO)**
   - Expected frequency per year
   - Historical data
   - Probability estimate
 
-- [ ] **Annualized Loss Expectancy (ALE)**
+- [ ] 💰 **Annualized Loss Expectancy (ALE)**
   - ALE = SLE × ARO
   - Expected annual loss
   - Cost-benefit analysis
   - Justifies controls
 
 ##### Risk Register
-- [ ] **Risk register components**
+- [ ] 📋 **Risk register components**
   - Risk description
   - Risk owner
   - Likelihood and impact
@@ -463,7 +463,7 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
   - Mitigation plans
   - Status tracking
 
-- [ ] **Risk register maintenance**
+- [ ] 🔄 **Risk register maintenance**
   - Regular updates
   - Continuous monitoring
   - New risk identification
@@ -473,14 +473,14 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
 - [ ] **Watched Professor Messer's "Business Impact Analysis" video**
 
 ##### BIA Process
-- [ ] **Business Impact Analysis (BIA)**
+- [ ] 📊 **Business Impact Analysis (BIA)**
   - Identify critical functions
   - Determine impact of disruption
   - Prioritize recovery
   - Resource requirements
   - Dependencies
 
-- [ ] **Impact categories**
+- [ ] 📋 **Impact categories**
   - Financial impact
   - Reputational impact
   - Operational impact
@@ -488,44 +488,44 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
   - Customer impact
 
 ##### Recovery Metrics
-- [ ] **Maximum Tolerable Downtime (MTD)**
+- [ ] ⏱️ **Maximum Tolerable Downtime (MTD)**
   - Longest acceptable outage
   - Before severe consequences
   - Business-driven
   - Per critical function
 
-- [ ] **Recovery Time Objective (RTO)**
+- [ ] ⏰ **Recovery Time Objective (RTO)**
   - Target recovery time
   - Return to operation
   - Must be < MTD
   - Technical goal
 
-- [ ] **Recovery Point Objective (RPO)**
+- [ ] 📅 **Recovery Point Objective (RPO)**
   - Acceptable data loss
   - Point-in-time recovery
   - Backup frequency
   - Data criticality
 
-- [ ] **Mean Time to Repair (MTTR)**
+- [ ] 🔧 **Mean Time to Repair (MTTR)**
   - Average repair time
   - Historical metric
   - Incident response efficiency
   - Continuous improvement
 
-- [ ] **Mean Time Between Failures (MTBF)**
+- [ ] ⚙️ **Mean Time Between Failures (MTBF)**
   - Average time between incidents
   - Reliability metric
   - Hardware specifications
   - Predictive maintenance
 
 ##### Critical Functions
-- [ ] **Mission-essential functions**
+- [ ] 🎯 **Mission-essential functions**
   - Core business operations
   - Revenue generation
   - Customer service
   - Critical dependencies
 
-- [ ] **Single Point of Failure (SPOF)**
+- [ ] ⚠️ **Single Point of Failure (SPOF)**
   - Component whose failure stops system
   - Eliminate where possible
   - Redundancy planning
@@ -535,46 +535,46 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
 - [ ] **Watched Professor Messer's "Risk Management Strategies" video**
 
 ##### Risk Response Strategies
-- [ ] **Risk acceptance**
+- [ ] ✅ **Risk acceptance**
   - Accept the risk
   - No additional controls
   - Cost exceeds benefit
   - Documented decision
   - Management approval required
 
-- [ ] **Risk avoidance**
+- [ ] 🚫 **Risk avoidance**
   - Eliminate the risk
   - Stop the activity
   - Change plans
   - Different approach
 
-- [ ] **Risk transference (Risk sharing)**
+- [ ] 🔄 **Risk transference (Risk sharing)**
   - Transfer risk to third party
   - Insurance
   - Contracts and SLAs
   - Outsourcing
   - Cloud services
 
-- [ ] **Risk mitigation (Risk reduction)**
+- [ ] 🛡️ **Risk mitigation (Risk reduction)**
   - Reduce likelihood or impact
   - Implement controls
   - Most common strategy
   - Security measures
 
 ##### Risk Monitoring
-- [ ] **Continuous monitoring**
+- [ ] 📊 **Continuous monitoring**
   - Ongoing assessment
   - Risk changes over time
   - New threats emerge
   - Control effectiveness
 
-- [ ] **Key Risk Indicators (KRIs)**
+- [ ] 📈 **Key Risk Indicators (KRIs)**
   - Early warning signs
   - Proactive monitoring
   - Trending data
   - Predictive metrics
 
-- [ ] **Risk reporting**
+- [ ] 📄 **Risk reporting**
   - Executive dashboards
   - Risk heat maps
   - Trend analysis
@@ -591,21 +591,21 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
 - [ ] **Watched Professor Messer's "Third-party Risk Assessment" video**
 
 ##### Vendor Risk Assessment
-- [ ] **Vendor selection**
+- [ ] 🔍 **Vendor selection**
   - Due diligence process
   - Security questionnaires
   - References and reputation
   - Financial stability
   - Technical capabilities
 
-- [ ] **Security assessments**
+- [ ] 🔐 **Security assessments**
   - Review security controls
   - Certification review (ISO 27001, SOC 2)
   - Penetration test results
   - Security audits
   - Compliance verification
 
-- [ ] **Right-to-audit clause**
+- [ ] 📋 **Right-to-audit clause**
   - Contract provision
   - Audit vendor security
   - Assess compliance
@@ -613,21 +613,21 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
   - Independent assessments
 
 ##### Vendor Management
-- [ ] **Supply chain analysis**
+- [ ] 🔗 **Supply chain analysis**
   - Identify dependencies
   - Critical vendors
   - Sub-contractors
   - Geographic risks
   - Concentration risk
 
-- [ ] **Vendor monitoring**
+- [ ] 👁️ **Vendor monitoring**
   - Ongoing oversight
   - Performance metrics
   - Security incident tracking
   - Compliance verification
   - Regular reviews
 
-- [ ] **Vendor questionnaires**
+- [ ] 📝 **Vendor questionnaires**
   - Security practices
   - Data handling
   - Incident response
@@ -635,68 +635,68 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
   - Insurance coverage
 
 ##### Agreements and Contracts
-- [ ] **Service Level Agreement (SLA)**
+- [ ] 📋 **Service Level Agreement (SLA)**
   - Performance metrics
   - Uptime guarantees
   - Response times
   - Penalties for non-performance
 
-- [ ] **Memorandum of Understanding (MOU)**
+- [ ] 🤝 **Memorandum of Understanding (MOU)**
   - Mutual agreement
   - Less formal than contract
   - Partnership terms
   - Cooperation framework
 
-- [ ] **Memorandum of Agreement (MOA)**
+- [ ] 📜 **Memorandum of Agreement (MOA)**
   - Binding agreement
   - Specific obligations
   - Legal commitments
   - More formal than MOU
 
-- [ ] **Master Service Agreement (MSA)**
+- [ ] 📄 **Master Service Agreement (MSA)**
   - Umbrella agreement
   - General terms
   - Framework for future work
   - Work orders reference MSA
 
-- [ ] **Statement of Work (SOW)**
+- [ ] 📋 **Statement of Work (SOW)**
   - Specific project details
   - Deliverables
   - Timeline
   - Payment terms
 
-- [ ] **Work Order (WO)**
+- [ ] 🔨 **Work Order (WO)**
   - Specific task request
   - Under MSA framework
   - Defined scope
   - Purchase order
 
-- [ ] **Non-Disclosure Agreement (NDA)**
+- [ ] 🤐 **Non-Disclosure Agreement (NDA)**
   - Confidentiality
   - Protect sensitive information
   - Mutual or unilateral
   - Legal protection
 
-- [ ] **Business Partnership Agreement (BPA)**
+- [ ] 🤝 **Business Partnership Agreement (BPA)**
   - Long-term relationship
   - Strategic partnership
   - Shared goals
   - Risk and reward sharing
 
 ##### Third-party Testing
-- [ ] **Independent assessments**
+- [ ] 🔍 **Independent assessments**
   - Third-party auditors
   - Unbiased evaluation
   - Compliance verification
   - Certification
 
-- [ ] **Evidence of internal audits**
+- [ ] 📊 **Evidence of internal audits**
   - Vendor's own audits
   - Self-assessment
   - Control validation
   - Continuous improvement
 
-- [ ] **Vendor penetration testing**
+- [ ] 🎯 **Vendor penetration testing**
   - Security testing
   - Vulnerability identification
   - Attack simulation
@@ -713,13 +713,13 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
 - [ ] **Watched Professor Messer's "Compliance" video**
 
 ##### Compliance Concepts
-- [ ] **Regulatory compliance**
+- [ ] ⚖️ **Regulatory compliance**
   - Legal requirements
   - Industry mandates
   - Geographic regulations
   - Mandatory adherence
 
-- [ ] **Compliance obligations**
+- [ ] ✅ **Compliance obligations**
   - GDPR (EU)
   - HIPAA (Healthcare - US)
   - PCI DSS (Payment cards)
@@ -728,20 +728,20 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
   - GLBA (Financial institutions - US)
 
 ##### Compliance Monitoring
-- [ ] **Compliance reporting**
+- [ ] 📊 **Compliance reporting**
   - Regular audits
   - Attestation
   - Certification
   - Evidence collection
   - Documentation
 
-- [ ] **Compliance monitoring tools**
+- [ ] 🔧 **Compliance monitoring tools**
   - Automated scanning
   - Configuration management
   - SCAP compliance
   - Continuous monitoring
 
-- [ ] **Compliance consequences**
+- [ ] ⚠️ **Compliance consequences**
   - Fines and penalties
   - Sanctions
   - Legal action
@@ -750,13 +750,13 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
   - Criminal charges
 
 ##### Attestation and Acknowledgement
-- [ ] **Attestation**
+- [ ] ✅ **Attestation**
   - Formal declaration
   - Third-party verification
   - Audit reports
   - SOC 2, ISO certifications
 
-- [ ] **Acknowledgement**
+- [ ] 📝 **Acknowledgement**
   - User acceptance
   - Policy acceptance
   - Terms and conditions
@@ -767,19 +767,19 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
 - [ ] **Watched Professor Messer's "Privacy" video**
 
 ##### Privacy Principles
-- [ ] **Data privacy**
+- [ ] 🔒 **Data privacy**
   - Personal information protection
   - Confidentiality
   - User rights
   - Consent management
 
-- [ ] **Legal implications**
+- [ ] ⚖️ **Legal implications**
   - Privacy laws
   - Data protection regulations
   - Cross-border considerations
   - Liability
 
-- [ ] **Data breach consequences**
+- [ ] 🚨 **Data breach consequences**
   - Notification requirements
   - Fines and penalties
   - Lawsuits
@@ -787,7 +787,7 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
   - Loss of customer trust
 
 ##### Privacy Regulations
-- [ ] **GDPR (General Data Protection Regulation)**
+- [ ] 🇪🇺 **GDPR (General Data Protection Regulation)**
   - EU regulation (2018)
   - Personal data rights
   - Consent requirements
@@ -796,32 +796,32 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
   - Breach notification (72 hours)
   - Significant fines (up to 4% revenue)
 
-- [ ] **CCPA/CPRA (California Consumer Privacy Act/Rights Act)**
+- [ ] 🏛️ **CCPA/CPRA (California Consumer Privacy Act/Rights Act)**
   - California privacy law
   - Similar to GDPR
   - Consumer rights
   - Opt-out requirements
 
 ##### Data Responsibilities
-- [ ] **Data inventory**
+- [ ] 📋 **Data inventory**
   - Know what data you have
   - Where it's stored
   - Who has access
   - Data classification
 
-- [ ] **Data retention**
+- [ ] 📅 **Data retention**
   - How long to keep data
   - Legal requirements
   - Business needs
   - Deletion schedules
 
-- [ ] **Data minimization**
+- [ ] 🎯 **Data minimization**
   - Collect only necessary data
   - Purpose limitation
   - Reduce risk
   - Privacy by design
 
-- [ ] **Privacy notices**
+- [ ] 📄 **Privacy notices**
   - Inform users
   - Collection purposes
   - Data usage
@@ -839,21 +839,21 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
 - [ ] **Watched Professor Messer's "Audits and Assessments" video**
 
 ##### Audit Types
-- [ ] **Internal audits**
+- [ ] 🔍 **Internal audits**
   - Conducted by organization
   - Self-assessment
   - Identify gaps
   - Prepare for external audits
   - Continuous improvement
 
-- [ ] **External audits**
+- [ ] 👁️ **External audits**
   - Third-party auditors
   - Independent assessment
   - Compliance verification
   - Certification
   - Regulatory requirement
 
-- [ ] **Regulatory audits**
+- [ ] ⚖️ **Regulatory audits**
   - Government agencies
   - Compliance verification
   - Industry regulators
@@ -861,14 +861,14 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
   - Legal consequences
 
 ##### Attestation Reports
-- [ ] **SOC 2 (Service Organization Control 2)**
+- [ ] 📜 **SOC 2 (Service Organization Control 2)**
   - Type I: Point in time
   - Type II: Period of time (6-12 months)
   - Trust service criteria
   - Security, availability, confidentiality
   - Service providers
 
-- [ ] **ISO 27001 certification**
+- [ ] 🏆 **ISO 27001 certification**
   - ISMS audit
   - Independent certification
   - International recognition
@@ -876,33 +876,33 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
   - 3-year recertification
 
 ##### Assessment Types
-- [ ] **Self-assessment**
+- [ ] 📝 **Self-assessment**
   - Internal evaluation
   - Questionnaires
   - Control validation
   - Baseline understanding
 
-- [ ] **Independent assessment**
+- [ ] 🔍 **Independent assessment**
   - Third-party evaluation
   - Unbiased perspective
   - Expertise
   - Credibility
 
-- [ ] **Compliance assessment**
+- [ ] ✅ **Compliance assessment**
   - Verify adherence
   - Regulatory requirements
   - Industry standards
   - Contract obligations
 
 ##### Audit Scope
-- [ ] **Scope definition**
+- [ ] 🎯 **Scope definition**
   - What's included
   - What's excluded
   - Timeframe
   - Systems covered
   - Locations
 
-- [ ] **Audit objectives**
+- [ ] 🎯 **Audit objectives**
   - What to evaluate
   - Success criteria
   - Reporting requirements
@@ -912,7 +912,7 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
 - [ ] **Watched Professor Messer's "Penetration Tests" video**
 
 ##### Penetration Testing
-- [ ] **Penetration test perspectives**
+- [ ] 👁️ **Penetration test perspectives**
   - **Known environment (White box)**
     - Full knowledge
     - Documentation provided
@@ -929,7 +929,7 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
     - Efficient testing
 
 ##### Reconnaissance
-- [ ] **Passive reconnaissance**
+- [ ] 👁️ **Passive reconnaissance**
   - No direct interaction
   - OSINT gathering
   - Public information
@@ -938,7 +938,7 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
   - WHOIS lookups
   - DNS enumeration
 
-- [ ] **Active reconnaissance**
+- [ ] 🔍 **Active reconnaissance**
   - Direct interaction
   - Port scanning
   - Service enumeration
@@ -947,31 +947,31 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
   - Detected by defenses
 
 ##### Testing Activities
-- [ ] **Vulnerability scanning**
+- [ ] 🔍 **Vulnerability scanning**
   - Automated tools
   - Identify vulnerabilities
   - CVE identification
   - Priority ranking
 
-- [ ] **Exploitation**
+- [ ] 💥 **Exploitation**
   - Attempt to exploit
   - Gain access
   - Privilege escalation
   - Demonstrate impact
 
-- [ ] **Lateral movement**
+- [ ] ↔️ **Lateral movement**
   - Move through network
   - Access other systems
   - Pivot points
   - Expand foothold
 
-- [ ] **Persistence**
+- [ ] 📌 **Persistence**
   - Maintain access
   - Backdoors
   - Scheduled tasks
   - Rootkits
 
-- [ ] **Reporting**
+- [ ] 📄 **Reporting**
   - Detailed findings
   - Proof of concepts
   - Risk ratings
@@ -989,20 +989,20 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
 - [ ] **Watched Professor Messer's "Security Awareness" video**
 
 ##### Security Awareness Programs
-- [ ] **Program components**
+- [ ] 📋 **Program components**
   - Organization-wide initiative
   - Ongoing education
   - Cultural change
   - Behavior modification
 
-- [ ] **Program goals**
+- [ ] 🎯 **Program goals**
   - Reduce human error
   - Increase vigilance
   - Promote security culture
   - Compliance
 
 ##### Phishing Awareness
-- [ ] **Recognizing phishing**
+- [ ] 🎣 **Recognizing phishing**
   - Suspicious emails
   - Unknown senders
   - Urgent requests
@@ -1010,14 +1010,14 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
   - Suspicious links
   - Unexpected attachments
 
-- [ ] **Phishing campaigns**
+- [ ] 📧 **Phishing campaigns**
   - Simulated attacks
   - Training tool
   - Measure effectiveness
   - Targeted remediation
   - Regular testing
 
-- [ ] **Reporting mechanisms**
+- [ ] 📝 **Reporting mechanisms**
   - Report suspicious emails
   - Phishing button
   - Security team contact
@@ -1025,14 +1025,14 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
   - Feedback loop
 
 ##### Anomalous Behavior Recognition
-- [ ] **Risky behaviors**
+- [ ] ⚠️ **Risky behaviors**
   - Password sharing
   - Tailgating
   - Unauthorized devices
   - Data exfiltration
   - Policy violations
 
-- [ ] **Insider threats**
+- [ ] 👤 **Insider threats**
   - Unusual access patterns
   - Off-hours activity
   - Large data downloads
@@ -1040,31 +1040,31 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
   - Reporting concerns
 
 ##### Awareness Topics
-- [ ] **Password security**
+- [ ] 🔐 **Password security**
   - Strong passwords
   - Password managers
   - MFA importance
   - No sharing
 
-- [ ] **Social engineering**
+- [ ] 🎭 **Social engineering**
   - Manipulation tactics
   - Pretexting
   - Impersonation
   - Baiting
 
-- [ ] **Physical security**
+- [ ] 🏢 **Physical security**
   - Badge access
   - Tailgating prevention
   - Clean desk policy
   - Secure disposal
 
-- [ ] **Mobile device security**
+- [ ] 📱 **Mobile device security**
   - Screen locks
   - Lost device reporting
   - Public Wi-Fi risks
   - App permissions
 
-- [ ] **Data handling**
+- [ ] 📋 **Data handling**
   - Classification
   - Encryption
   - Secure transfer
@@ -1074,19 +1074,19 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
 - [ ] **Watched Professor Messer's "User Training" video**
 
 ##### Training Audience
-- [ ] **Employees**
+- [ ] 👥 **Employees**
   - All staff
   - Role-specific training
   - Regular updates
   - Mandatory completion
 
-- [ ] **Management**
+- [ ] 👔 **Management**
   - Leadership role
   - Budget decisions
   - Risk acceptance
   - Strategic importance
 
-- [ ] **Third parties**
+- [ ] 🤝 **Third parties**
   - Contractors
   - Partners
   - Suppliers
@@ -1094,77 +1094,77 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
   - Limited access training
 
 ##### Training Methods
-- [ ] **Computer-based training (CBT)**
+- [ ] 💻 **Computer-based training (CBT)**
   - Online courses
   - Self-paced
   - Scalable
   - Trackable
   - Cost-effective
 
-- [ ] **In-person training**
+- [ ] 👥 **In-person training**
   - Classroom setting
   - Interactive
   - Q&A sessions
   - Hands-on exercises
 
-- [ ] **Capture the flag (CTF)**
+- [ ] 🚩 **Capture the flag (CTF)**
   - Gamification
   - Technical staff
   - Practical skills
   - Competition
 
-- [ ] **Micro-training**
+- [ ] ⚡ **Micro-training**
   - Short lessons
   - Just-in-time
   - Specific topics
   - Regular reminders
 
-- [ ] **Lunch and learn**
+- [ ] 🍽️ **Lunch and learn**
   - Informal setting
   - Voluntary attendance
   - Current topics
   - Discussion
 
 ##### Training Topics
-- [ ] **Policy training**
+- [ ] 📋 **Policy training**
   - Security policies
   - AUP
   - Code of conduct
   - Compliance requirements
 
-- [ ] **Role-based training**
+- [ ] 🎯 **Role-based training**
   - Job-specific risks
   - Relevant scenarios
   - Tailored content
   - Practical examples
 
-- [ ] **Onboarding training**
+- [ ] ➕ **Onboarding training**
   - New hire requirement
   - Day one security
   - Baseline knowledge
   - Policy acknowledgement
 
-- [ ] **Ongoing/refresher training**
+- [ ] 🔄 **Ongoing/refresher training**
   - Annual requirement
   - Updated threats
   - New policies
   - Reinforcement
 
 ##### Training Effectiveness
-- [ ] **Testing and assessment**
+- [ ] 📝 **Testing and assessment**
   - Pre and post tests
   - Knowledge checks
   - Certification
   - Passing scores
 
-- [ ] **Metrics**
+- [ ] 📊 **Metrics**
   - Completion rates
   - Test scores
   - Phishing click rates
   - Incident reduction
   - Time to complete
 
-- [ ] **Reporting and monitoring**
+- [ ] 📈 **Reporting and monitoring**
   - Compliance tracking
   - Trend analysis
   - Gap identification

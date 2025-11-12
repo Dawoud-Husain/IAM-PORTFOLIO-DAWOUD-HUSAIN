@@ -45,58 +45,58 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
 - [ ] **Watched Professor Messer's "Network Infrastructure Concepts" video**
 
 ##### Network Segmentation
-- [ ] **Physical segmentation**
+- [ ] 🔌 **Physical segmentation**
   - Separate physical networks
   - Air-gapped systems
   - Complete isolation
   - Highest security level
 
-- [ ] **Logical segmentation (VLANs)**
+- [ ] 🌐 **Logical segmentation (VLANs)**
   - Virtual Local Area Networks
   - Switch-based segmentation
   - Broadcast domain separation
   - Layer 2 isolation
 
-- [ ] **Screened subnet (DMZ)**
+- [ ] 🛡️ **Screened subnet (DMZ)**
   - Demilitarized Zone
   - Public-facing services
   - Additional security layer
   - Separated from internal network
 
-- [ ] **Intranet**
+- [ ] 🏢 **Intranet**
   - Internal private network
   - Company resources
   - Internal users only
 
-- [ ] **Extranet**
+- [ ] 🔗 **Extranet**
   - Extended network access
   - Partners and vendors
   - Controlled external access
   - Limited resources
 
 ##### Software-Defined Networking (SDN)
-- [ ] **SDN architecture**
+- [ ] 🎛️ **SDN architecture**
   - Centralized control plane
   - Distributed data plane
   - API-driven management
   - Network programmability
 
-- [ ] **Application layer**
+- [ ] 📱 **Application layer**
   - Business applications
   - Network services
   - Northbound APIs
 
-- [ ] **Control layer**
+- [ ] ⚙️ **Control layer**
   - Network controller
   - Policy decisions
   - Traffic management
 
-- [ ] **Infrastructure layer**
+- [ ] 🏗️ **Infrastructure layer**
   - Physical switches and routers
   - Data forwarding
   - Southbound APIs
 
-- [ ] **Benefits of SDN**
+- [ ] ✅ **Benefits of SDN**
   - Centralized management
   - Automated provisioning
   - Network agility
@@ -106,76 +106,76 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
 - [ ] **Watched Professor Messer's "Cloud Infrastructures" video**
 
 ##### Cloud Service Models
-- [ ] **Infrastructure as a Service (IaaS)**
+- [ ] 🏗️ **Infrastructure as a Service (IaaS)**
   - Virtual machines
   - Storage and networking
   - Customer manages OS and applications
   - Examples: AWS EC2, Azure VMs, Google Compute Engine
 
-- [ ] **Platform as a Service (PaaS)**
+- [ ] 🛠️ **Platform as a Service (PaaS)**
   - Development platform
   - Runtime environment
   - No OS management required
   - Examples: Heroku, Google App Engine, Azure App Service
 
-- [ ] **Software as a Service (SaaS)**
+- [ ] 📦 **Software as a Service (SaaS)**
   - Complete applications
   - Web-based delivery
   - No infrastructure management
   - Examples: Office 365, Salesforce, Gmail
 
 ##### Cloud Deployment Models
-- [ ] **Public cloud**
+- [ ] ☁️ **Public cloud**
   - Shared infrastructure
   - Internet-accessible
   - Pay-per-use model
   - Examples: AWS, Azure, GCP
 
-- [ ] **Private cloud**
+- [ ] 🔒 **Private cloud**
   - Dedicated infrastructure
   - On-premises or hosted
   - Complete control
   - Enhanced security
 
-- [ ] **Hybrid cloud**
+- [ ] 🔄 **Hybrid cloud**
   - Mix of public and private
   - Data portability
   - Flexible deployment
   - Best of both worlds
 
-- [ ] **Community cloud**
+- [ ] 👥 **Community cloud**
   - Shared by specific group
   - Common interests/requirements
   - Cost-sharing model
   - Compliance-focused
 
 ##### Cloud Concepts
-- [ ] **Infrastructure as Code (IaC)**
+- [ ] 📝 **Infrastructure as Code (IaC)**
   - Automated deployment
   - Version-controlled infrastructure
   - Consistent configurations
   - Tools: Terraform, CloudFormation, Ansible
 
-- [ ] **Serverless architecture**
+- [ ] ⚡ **Serverless architecture**
   - Function as a Service (FaaS)
   - No server management
   - Event-driven execution
   - Pay per execution
   - Examples: AWS Lambda, Azure Functions
 
-- [ ] **Microservices**
+- [ ] 🔬 **Microservices**
   - Decomposed applications
   - Independent services
   - API communication
   - Scalable and maintainable
 
-- [ ] **API integrations**
+- [ ] 🔌 **API integrations**
   - RESTful APIs
   - Service communication
   - Third-party integrations
   - Authentication and authorization
 
-- [ ] **Containers**
+- [ ] 📦 **Containers**
   - Lightweight virtualization
   - Application packaging
   - Portable deployment
@@ -185,57 +185,57 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
 - [ ] **Watched Professor Messer's "Infrastructure Considerations" video**
 
 ##### Availability and Resilience
-- [ ] **High availability**
+- [ ] ⚡ **High availability**
   - Minimize downtime
   - Redundant systems
   - Failover capabilities
   - SLA targets (99.9%, 99.99%, 99.999%)
 
-- [ ] **Fault tolerance**
+- [ ] 🛡️ **Fault tolerance**
   - Continue operating during failures
   - Redundant components
   - No single point of failure
   - Graceful degradation
 
-- [ ] **Scalability**
+- [ ] 📈 **Scalability**
   - Handle increased load
   - Vertical scaling (scale up)
   - Horizontal scaling (scale out)
   - Elastic resources
 
-- [ ] **Responsiveness**
+- [ ] ⚡ **Responsiveness**
   - Performance optimization
   - Low latency
   - Fast response times
   - User experience
 
 ##### Cost Considerations
-- [ ] **CapEx vs. OpEx**
+- [ ] 💰 **CapEx vs. OpEx**
   - Capital Expenditure (CapEx): upfront costs
   - Operational Expenditure (OpEx): ongoing costs
   - Cloud shifts to OpEx model
   - Budget planning
 
-- [ ] **Cloud cost optimization**
+- [ ] 💵 **Cloud cost optimization**
   - Right-sizing resources
   - Reserved instances
   - Auto-scaling
   - Cost monitoring tools
 
 ##### Security Considerations
-- [ ] **Attack surface**
+- [ ] 🎯 **Attack surface**
   - Exposed systems and services
   - Entry points for attackers
   - Minimize exposure
   - Continuous assessment
 
-- [ ] **Ease of deployment**
+- [ ] 🚀 **Ease of deployment**
   - Automation tools
   - Quick provisioning
   - Consistent environments
   - DevOps integration
 
-- [ ] **Risk transference**
+- [ ] 🔄 **Risk transference**
   - Shared responsibility model
   - Cloud provider security
   - Insurance and contracts
@@ -245,94 +245,94 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
 - [ ] **Watched Professor Messer's "Other Infrastructure Concepts" video**
 
 ##### Virtualization
-- [ ] **Virtual machines (VMs)**
+- [ ] 💻 **Virtual machines (VMs)**
   - Hypervisor technology
   - Multiple OS instances
   - Resource sharing
   - Isolation between VMs
 
-- [ ] **Type 1 hypervisor**
+- [ ] 🔧 **Type 1 hypervisor**
   - Bare metal
   - Direct hardware access
   - Better performance
   - Examples: VMware ESXi, Hyper-V, KVM
 
-- [ ] **Type 2 hypervisor**
+- [ ] 🖥️ **Type 2 hypervisor**
   - Runs on host OS
   - Lower performance
   - Easier setup
   - Examples: VMware Workstation, VirtualBox
 
-- [ ] **VM sprawl**
+- [ ] 📈 **VM sprawl**
   - Uncontrolled VM growth
   - Management challenges
   - Security risks
   - Resource waste
 
-- [ ] **VM escape**
+- [ ] 🏃 **VM escape**
   - Breaking out of VM
   - Attacking hypervisor
   - Accessing host system
   - Critical vulnerability
 
 ##### Containerization
-- [ ] **Containers vs. VMs**
+- [ ] 📦 **Containers vs. VMs**
   - Lighter weight than VMs
   - Share host OS kernel
   - Faster startup
   - More portable
 
-- [ ] **Docker**
+- [ ] 🐳 **Docker**
   - Container platform
   - Docker images
   - Docker Hub registry
   - Container orchestration
 
-- [ ] **Kubernetes**
+- [ ] ☸️ **Kubernetes**
   - Container orchestration
   - Automated deployment
   - Scaling and management
   - Load balancing
 
 ##### IoT and Embedded Systems
-- [ ] **Internet of Things (IoT)**
+- [ ] 🌐 **Internet of Things (IoT)**
   - Connected devices
   - Sensors and actuators
   - Smart home devices
   - Industrial IoT (IIoT)
 
-- [ ] **IoT security challenges**
+- [ ] ⚠️ **IoT security challenges**
   - Weak authentication
   - Unpatched vulnerabilities
   - Limited resources
   - Privacy concerns
 
-- [ ] **Embedded systems**
+- [ ] 🔌 **Embedded systems**
   - Dedicated function
   - Firmware-based
   - RTOS (Real-Time OS)
   - Examples: routers, printers, industrial controls
 
-- [ ] **SCADA/ICS**
+- [ ] 🏭 **SCADA/ICS**
   - Supervisory Control and Data Acquisition
   - Industrial Control Systems
   - Critical infrastructure
   - Air-gapped networks (traditionally)
 
 ##### Data Center Infrastructure
-- [ ] **Data center design**
+- [ ] 🏢 **Data center design**
   - Hot aisle / cold aisle
   - Cooling systems
   - Power distribution
   - Physical security
 
-- [ ] **On-premises data centers**
+- [ ] 🏛️ **On-premises data centers**
   - Complete control
   - Significant investment
   - Maintenance overhead
   - Legacy systems
 
-- [ ] **Colocation**
+- [ ] 🏬 **Colocation**
   - Shared data center space
   - Customer equipment
   - Provider facilities
@@ -349,51 +349,51 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
 - [ ] **Watched Professor Messer's "Secure Infrastructures" video**
 
 ##### Security Zones
-- [ ] **Trusted zone**
+- [ ] ✅ **Trusted zone**
   - Internal network
   - Corporate resources
   - Authenticated users
   - Highest trust level
 
-- [ ] **Untrusted zone**
+- [ ] ⚠️ **Untrusted zone**
   - Internet
   - External networks
   - No authentication
   - Lowest trust level
 
-- [ ] **DMZ (Screened subnet)**
+- [ ] 🛡️ **DMZ (Screened subnet)**
   - Between trusted and untrusted
   - Public-facing services
   - Additional protection layer
   - Web servers, email servers
 
-- [ ] **Guest network**
+- [ ] 🏨 **Guest network**
   - Isolated from internal network
   - Limited access
   - Internet only
   - Visitor access
 
 ##### Network Connectivity
-- [ ] **East-West traffic**
+- [ ] ↔️ **East-West traffic**
   - Lateral movement
   - Server-to-server communication
   - Within data center
   - Micro-segmentation important
 
-- [ ] **North-South traffic**
+- [ ] ⬆️⬇️ **North-South traffic**
   - Entering/leaving network
   - Client-to-server
   - Internet traffic
   - Traditional perimeter security
 
 ##### Attack Surface Reduction
-- [ ] **Minimize exposure**
+- [ ] 🎯 **Minimize exposure**
   - Reduce open ports
   - Disable unnecessary services
   - Remove unused applications
   - Principle of least functionality
 
-- [ ] **Connectivity considerations**
+- [ ] 🔗 **Connectivity considerations**
   - Need-to-know access
   - Secure communication channels
   - Network segmentation
@@ -403,46 +403,46 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
 - [ ] **Watched Professor Messer's "Firewall Types" video**
 
 ##### Firewall Categories
-- [ ] **Network-based firewalls**
+- [ ] 🌐 **Network-based firewalls**
   - Protects entire network
   - Hardware appliances
   - High throughput
   - Perimeter defense
 
-- [ ] **Host-based firewalls**
+- [ ] 💻 **Host-based firewalls**
   - Software on individual systems
   - OS-level protection
   - Granular control
   - Examples: Windows Firewall, iptables
 
 ##### Firewall Technologies
-- [ ] **Stateless firewalls**
+- [ ] 📋 **Stateless firewalls**
   - Packet filtering
   - ACL-based rules
   - No connection tracking
   - Fast but limited
 
-- [ ] **Stateful firewalls**
+- [ ] 🔄 **Stateful firewalls**
   - Connection state tracking
   - Dynamic rules
   - Better security
   - Most common type
 
-- [ ] **Next-Generation Firewall (NGFW)**
+- [ ] 🚀 **Next-Generation Firewall (NGFW)**
   - Deep packet inspection
   - Application awareness
   - IPS integration
   - URL filtering
   - Advanced threat protection
 
-- [ ] **Unified Threat Management (UTM)**
+- [ ] 🔧 **Unified Threat Management (UTM)**
   - All-in-one security
   - Firewall, IPS, antivirus
   - Web filtering
   - VPN
   - Small/medium business focus
 
-- [ ] **Web Application Firewall (WAF)**
+- [ ] 🌐 **Web Application Firewall (WAF)**
   - Protects web applications
   - HTTP/HTTPS traffic inspection
   - OWASP Top 10 protection
@@ -453,51 +453,51 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
 - [ ] **Watched Professor Messer's "Intrusion Prevention" video**
 
 ##### IDS vs. IPS
-- [ ] **Intrusion Detection System (IDS)**
+- [ ] 👁️ **Intrusion Detection System (IDS)**
   - Passive monitoring
   - Alert on suspicious activity
   - No blocking
   - Signature and anomaly detection
 
-- [ ] **Intrusion Prevention System (IPS)**
+- [ ] 🛡️ **Intrusion Prevention System (IPS)**
   - Active blocking
   - Inline deployment
   - Prevents attacks
   - Automated response
 
 ##### Detection Methods
-- [ ] **Signature-based detection**
+- [ ] 📝 **Signature-based detection**
   - Known attack patterns
   - Low false positives
   - Requires updates
   - Can't detect zero-days
 
-- [ ] **Anomaly-based detection**
+- [ ] 📊 **Anomaly-based detection**
   - Baseline behavior
   - Detects deviations
   - Finds unknown attacks
   - Higher false positives
 
-- [ ] **Heuristic/behavior-based**
+- [ ] 🧠 **Heuristic/behavior-based**
   - Suspicious patterns
   - Machine learning
   - Adaptive detection
   - Evolving threats
 
 ##### IPS Deployment
-- [ ] **Inline mode**
+- [ ] 🔗 **Inline mode**
   - In the traffic path
   - Can block attacks
   - Potential bottleneck
   - Active protection
 
-- [ ] **Passive mode (TAP/SPAN)**
+- [ ] 👀 **Passive mode (TAP/SPAN)**
   - Monitor copy of traffic
   - No blocking capability
   - No impact on performance
   - Detection only
 
-- [ ] **Fail-open vs. Fail-closed**
+- [ ] ⚖️ **Fail-open vs. Fail-closed**
   - Fail-open: traffic continues if IPS fails
   - Fail-closed: traffic stops if IPS fails
   - Availability vs. security trade-off
@@ -506,57 +506,57 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
 - [ ] **Watched Professor Messer's "Network Appliances" video**
 
 ##### Security Appliances
-- [ ] **Jump server (Jump box)**
+- [ ] 🚀 **Jump server (Jump box)**
   - Secure administrative access
   - Gateway to secure zone
   - Centralized access point
   - Auditing and logging
 
-- [ ] **Proxy servers**
+- [ ] 🔀 **Proxy servers**
   - Intermediary for requests
   - Content filtering
   - Caching
   - Anonymity
 
-- [ ] **Forward proxy**
+- [ ] ➡️ **Forward proxy**
   - Internal clients to Internet
   - User authentication
   - Content filtering
   - Bandwidth control
 
-- [ ] **Reverse proxy**
+- [ ] ⬅️ **Reverse proxy**
   - Internet clients to internal servers
   - Load balancing
   - SSL offloading
   - Caching and compression
 
-- [ ] **Load balancers**
+- [ ] ⚖️ **Load balancers**
   - Distribute traffic
   - Multiple servers
   - High availability
   - Health checks
 
-- [ ] **Load balancing algorithms**
+- [ ] 🔄 **Load balancing algorithms**
   - Round-robin
   - Least connections
   - Weighted distribution
   - Source IP hash
   - Session persistence
 
-- [ ] **Layer 4 vs. Layer 7 load balancing**
+- [ ] 🔢 **Layer 4 vs. Layer 7 load balancing**
   - Layer 4: Transport layer (IP/port)
   - Layer 7: Application layer (HTTP/content)
   - Layer 7 more intelligent
   - Layer 4 faster
 
 ##### Monitoring Devices
-- [ ] **Sensors**
+- [ ] 📡 **Sensors**
   - Collect security data
   - Network traffic analysis
   - Anomaly detection
   - Distributed placement
 
-- [ ] **Collectors**
+- [ ] 📊 **Collectors**
   - Aggregate sensor data
   - Centralized logging
   - SIEM integration
@@ -566,46 +566,46 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
 - [ ] **Watched Professor Messer's "Port Security" video**
 
 ##### Network Access Control
-- [ ] **IEEE 802.1X**
+- [ ] 🔒 **IEEE 802.1X**
   - Port-based authentication
   - Before network access
   - Supplicant, authenticator, authentication server
   - RADIUS/TACACS+
 
-- [ ] **EAP (Extensible Authentication Protocol)**
+- [ ] 🔑 **EAP (Extensible Authentication Protocol)**
   - Framework for authentication
   - Multiple methods
   - Flexible and extensible
 
-- [ ] **EAP-TLS**
+- [ ] 🔐 **EAP-TLS**
   - Certificate-based
   - Mutual authentication
   - Most secure
   - PKI required
 
-- [ ] **EAP-TTLS**
+- [ ] 🔒 **EAP-TTLS**
   - Tunneled TLS
   - Server certificate only
   - Username/password in tunnel
 
-- [ ] **PEAP**
+- [ ] 🛡️ **PEAP**
   - Protected EAP
   - TLS tunnel
   - Microsoft implementation
 
 ##### Port Security Features
-- [ ] **MAC filtering**
+- [ ] 🏷️ **MAC filtering**
   - Allow/deny by MAC address
   - Switch port security
   - Easily spoofed
   - Basic protection
 
-- [ ] **Persistent MAC learning**
+- [ ] 📌 **Persistent MAC learning**
   - Remember authorized MACs
   - Automatic learning
   - Sticky MAC addresses
 
-- [ ] **Port security violations**
+- [ ] ⚠️ **Port security violations**
   - Shutdown: disable port
   - Restrict: drop frames, alert
   - Protect: drop frames silently
@@ -614,44 +614,44 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
 - [ ] **Watched Professor Messer's "Secure Communication" video**
 
 ##### VPN Technologies
-- [ ] **Remote access VPN**
+- [ ] 👤 **Remote access VPN**
   - Individual users
   - Client software
   - Secure remote work
   - IPsec or SSL/TLS
 
-- [ ] **Site-to-site VPN**
+- [ ] 🏢 **Site-to-site VPN**
   - Connect networks
   - Always-on connection
   - No client software
   - IPsec common
 
-- [ ] **IPsec VPN**
+- [ ] 🔒 **IPsec VPN**
   - Network layer security
   - Authentication Header (AH)
   - Encapsulating Security Payload (ESP)
   - Transport mode vs. tunnel mode
 
-- [ ] **SSL/TLS VPN**
+- [ ] 🌐 **SSL/TLS VPN**
   - Application layer
   - Web browser access
   - Easier deployment
   - Clientless options
 
-- [ ] **Split tunnel vs. full tunnel**
+- [ ] 🔀 **Split tunnel vs. full tunnel**
   - Split: some traffic via VPN, some direct
   - Full: all traffic via VPN
   - Security vs. performance
 
 ##### Advanced Technologies
-- [ ] **Software-Defined WAN (SD-WAN)**
+- [ ] 🌐 **Software-Defined WAN (SD-WAN)**
   - WAN optimization
   - Multiple connection types
   - Intelligent routing
   - Centralized management
   - Application-aware
 
-- [ ] **Secure Access Service Edge (SASE)**
+- [ ] 🔐 **Secure Access Service Edge (SASE)**
   - Cloud-delivered security
   - Combines networking and security
   - WAN + security services
@@ -668,39 +668,39 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
 - [ ] **Watched Professor Messer's "States of Data" video**
 
 ##### Data States
-- [ ] **Data at rest**
+- [ ] 💾 **Data at rest**
   - Stored on media
   - Hard drives, SSDs, databases
   - File servers, backups
   - Encryption: BitLocker, FileVault, database encryption
 
-- [ ] **Data in transit (data in motion)**
+- [ ] 🚀 **Data in transit (data in motion)**
   - Moving across network
   - Between systems
   - Over the Internet
   - Encryption: TLS/SSL, IPsec, VPN
 
-- [ ] **Data in use (data in processing)**
+- [ ] ⚡ **Data in use (data in processing)**
   - In memory/CPU
   - Being processed
   - Most vulnerable state
   - Encryption: homomorphic encryption, trusted execution environments
 
 ##### Protection Methods by State
-- [ ] **Protecting data at rest**
+- [ ] 🔒 **Protecting data at rest**
   - Full-disk encryption (FDE)
   - File-level encryption
   - Database encryption
   - Secure deletion
   - Physical security
 
-- [ ] **Protecting data in transit**
+- [ ] 🌐 **Protecting data in transit**
   - TLS/SSL for web traffic
   - VPN for network traffic
   - Email encryption (S/MIME, PGP)
   - Secure file transfer (SFTP, FTPS)
 
-- [ ] **Protecting data in use**
+- [ ] 💻 **Protecting data in use**
   - Process isolation
   - Secure enclaves
   - Application security
@@ -711,82 +711,82 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
 - [ ] **Watched Professor Messer's "Data Types and Classifications" video**
 
 ##### Data Types
-- [ ] **Regulated data**
+- [ ] ⚖️ **Regulated data**
   - Legal requirements
   - Industry-specific
   - Compliance mandates
   - Examples: HIPAA, PCI DSS, GDPR
 
-- [ ] **Trade secrets**
+- [ ] 🤫 **Trade secrets**
   - Proprietary information
   - Competitive advantage
   - Business value
   - Non-disclosure agreements
 
-- [ ] **Intellectual property (IP)**
+- [ ] 💡 **Intellectual property (IP)**
   - Patents, trademarks
   - Copyrights
   - Trade secrets
   - Legal protection
 
-- [ ] **Legal information**
+- [ ] ⚖️ **Legal information**
   - Contracts
   - Legal documents
   - Attorney-client privilege
   - Discovery and litigation holds
 
-- [ ] **Financial information**
+- [ ] 💰 **Financial information**
   - Banking records
   - Credit card data
   - Accounting information
   - SOX compliance
 
-- [ ] **Human-readable vs. non-human-readable**
+- [ ] 👁️ **Human-readable vs. non-human-readable**
   - Plain text vs. encrypted
   - Images vs. hashes
   - Processed data
   - Machine-only formats
 
 ##### Data Classification Levels
-- [ ] **Public**
+- [ ] 🌍 **Public**
   - No confidentiality
   - General distribution
   - Marketing materials
   - Public websites
 
-- [ ] **Private/Internal**
+- [ ] 🏢 **Private/Internal**
   - Internal use only
   - Not for public
   - Company policies
   - Internal communications
 
-- [ ] **Sensitive**
+- [ ] ⚠️ **Sensitive**
   - Limited distribution
   - Potential damage if disclosed
   - Financial data
   - Personnel information
 
-- [ ] **Confidential**
+- [ ] 🔒 **Confidential**
   - Highly sensitive
   - Restricted access
   - Significant damage potential
   - Trade secrets
 
-- [ ] **Critical/Restricted**
+- [ ] 🔐 **Critical/Restricted**
   - Most sensitive
   - Very limited access
   - Severe damage if disclosed
   - Executive strategy, M&A
 
 ##### Government Classifications
-- [ ] **Unclassified**
-- [ ] **Sensitive but Unclassified (SBU)**
-- [ ] **Confidential**
-- [ ] **Secret**
-- [ ] **Top Secret**
+- [ ] 📄 **Unclassified**
+- [ ] ⚠️ **Sensitive but Unclassified (SBU)**
+- [ ] 🔒 **Confidential**
+- [ ] 🔐 **Secret**
+- [ ] 🔺 **Top Secret**
 
 ##### Data Sovereignty
-- [ ] **Geographic restrictions**
+- [ ] 🌍 **Geographic restrictions**
   - Data location requirements
   - National laws
   - GDPR, data residency
@@ -796,82 +796,82 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
 - [ ] **Watched Professor Messer's "Protecting Data" video**
 
 ##### Data Protection Techniques
-- [ ] **Encryption**
+- [ ] 🔐 **Encryption**
   - Symmetric encryption (AES)
   - Asymmetric encryption (RSA)
   - End-to-end encryption
   - Key management
 
-- [ ] **Hashing**
+- [ ] #️⃣ **Hashing**
   - One-way function
   - Integrity verification
   - Password storage
   - Algorithms: SHA-256, SHA-3
 
-- [ ] **Masking**
+- [ ] 🎭 **Masking**
   - Hide portions of data
   - Display limited characters
   - PAN masking (XXXX-XXXX-XXXX-1234)
   - PII protection
 
-- [ ] **Tokenization**
+- [ ] 🎫 **Tokenization**
   - Replace sensitive data with token
   - Token has no meaning
   - Reversible by system
   - Payment processing
 
-- [ ] **Obfuscation**
+- [ ] 🌫️ **Obfuscation**
   - Make data unclear
   - Code obfuscation
   - Security through obscurity
   - Not a primary control
 
-- [ ] **Segmentation**
+- [ ] 🔀 **Segmentation**
   - Separate data storage
   - Network segmentation
   - Database partitioning
   - Reduce exposure
 
 ##### Data Loss Prevention (DLP)
-- [ ] **DLP systems**
+- [ ] 🛡️ **DLP systems**
   - Prevent data exfiltration
   - Monitor and block
   - Email, web, endpoints
 
-- [ ] **DLP detection methods**
+- [ ] 🔍 **DLP detection methods**
   - Pattern matching
   - Keyword searches
   - Regular expressions
   - Fingerprinting
   - Machine learning
 
-- [ ] **DLP deployment**
+- [ ] 📡 **DLP deployment**
   - Network DLP
   - Endpoint DLP
   - Cloud DLP
   - Storage DLP
 
 ##### Rights Management
-- [ ] **Digital Rights Management (DRM)**
+- [ ] 📜 **Digital Rights Management (DRM)**
   - Control access and usage
   - Prevent copying
   - Time-based access
   - Geographic restrictions
 
-- [ ] **Information Rights Management (IRM)**
+- [ ] 📋 **Information Rights Management (IRM)**
   - Document protection
   - Persistent protection
   - Travels with data
   - Office document protection
 
 ##### Geographic Restrictions
-- [ ] **Geofencing**
+- [ ] 📍 **Geofencing**
   - Geographic boundaries
   - Access restrictions
   - Mobile device management
   - Location-based policies
 
-- [ ] **Geolocation**
+- [ ] 🌍 **Geolocation**
   - Determine user location
   - IP geolocation
   - GPS tracking
@@ -888,57 +888,57 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
 - [ ] **Watched Professor Messer's "Resiliency" video**
 
 ##### High Availability Concepts
-- [ ] **Redundancy**
+- [ ] 🔄 **Redundancy**
   - Duplicate components
   - Eliminate single points of failure
   - Failover capability
   - N+1, N+2, 2N
 
-- [ ] **Server clustering**
+- [ ] 🖥️ **Server clustering**
   - Multiple servers working together
   - Active-active
   - Active-passive
   - Failover clusters
 
-- [ ] **Load balancing**
+- [ ] ⚖️ **Load balancing**
   - Distribute workload
   - Improve performance
   - Automatic failover
   - Health monitoring
 
 ##### Geographic Distribution
-- [ ] **Geographic dispersal**
+- [ ] 🌍 **Geographic dispersal**
   - Multiple locations
   - Disaster protection
   - Natural disaster resilience
   - Distance requirements
 
-- [ ] **Hot site**
+- [ ] 🔥 **Hot site**
   - Fully operational
   - Real-time replication
   - Immediate failover
   - Most expensive
 
-- [ ] **Warm site**
+- [ ] 🌡️ **Warm site**
   - Partially equipped
   - Some delay for activation
   - Balance cost and recovery time
   - Hardware ready, data needs syncing
 
-- [ ] **Cold site**
+- [ ] ❄️ **Cold site**
   - Basic facilities
   - Longest recovery time
   - Lowest cost
   - Empty data center space
 
 ##### Platform Diversity
-- [ ] **Multi-cloud systems**
+- [ ] ☁️ **Multi-cloud systems**
   - Multiple cloud providers
   - Avoid vendor lock-in
   - Geographic distribution
   - Resilience from provider outages
 
-- [ ] **Platform diversity**
+- [ ] 🔀 **Platform diversity**
   - Different technologies
   - Different vendors
   - Reduce single-vendor risk
@@ -948,81 +948,81 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
 - [ ] **Watched Professor Messer's "Backups" video**
 
 ##### Backup Types
-- [ ] **Full backup**
+- [ ] 💯 **Full backup**
   - Complete copy
   - All data
   - Slowest backup
   - Fastest restore
 
-- [ ] **Incremental backup**
+- [ ] 📊 **Incremental backup**
   - Only changed data since last backup
   - Fastest backup
   - Slower restore (need full + all incrementals)
   - Less storage space
 
-- [ ] **Differential backup**
+- [ ] 📈 **Differential backup**
   - Changes since last full backup
   - Moderate backup time
   - Moderate restore (need full + last differential)
   - More storage than incremental
 
-- [ ] **Snapshot**
+- [ ] 📸 **Snapshot**
   - Point-in-time copy
   - Instant backup
   - Storage-level feature
   - Quick rollback
 
 ##### Backup Considerations
-- [ ] **Backup frequency**
+- [ ] ⏰ **Backup frequency**
   - Daily, weekly, monthly
   - Recovery Point Objective (RPO)
   - Balance cost and data loss
   - Critical vs. non-critical data
 
-- [ ] **Backup retention**
+- [ ] 📅 **Backup retention**
   - How long to keep
   - Compliance requirements
   - Storage costs
   - Grandfather-father-son rotation
 
-- [ ] **Backup encryption**
+- [ ] 🔐 **Backup encryption**
   - Protect backup data
   - At rest and in transit
   - Key management
   - Secure recovery
 
-- [ ] **Backup testing**
+- [ ] 🧪 **Backup testing**
   - Verify recoverability
   - Regular test restores
   - Validate integrity
   - Document procedures
 
 ##### Backup Strategies
-- [ ] **On-site backups**
+- [ ] 🏢 **On-site backups**
   - Fast recovery
   - Accessible
   - Same location risk
   - Disaster vulnerable
 
-- [ ] **Off-site backups**
+- [ ] 🌍 **Off-site backups**
   - Geographic separation
   - Disaster protection
   - Slower recovery
   - Third-party storage
 
-- [ ] **Cloud backups**
+- [ ] ☁️ **Cloud backups**
   - Scalable storage
   - Geographic distribution
   - Automated
   - Subscription-based
 
-- [ ] **Replication**
+- [ ] 🔄 **Replication**
   - Real-time copying
   - Synchronous vs. asynchronous
   - High availability
   - Geographic redundancy
 
-- [ ] **3-2-1 backup rule**
+- [ ] 3️⃣ **3-2-1 backup rule**
   - 3 copies of data
   - 2 different media types
   - 1 off-site copy
@@ -1032,44 +1032,44 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
 - [ ] **Watched Professor Messer's "Power Resiliency" video**
 
 ##### Uninterruptible Power Supply (UPS)
-- [ ] **UPS types**
+- [ ] 🔋 **UPS types**
   - Offline/standby UPS
   - Line-interactive UPS
   - Online/double-conversion UPS
 
-- [ ] **UPS functions**
+- [ ] ⚡ **UPS functions**
   - Battery backup
   - Power conditioning
   - Surge protection
   - Graceful shutdown
 
-- [ ] **UPS runtime**
+- [ ] ⏱️ **UPS runtime**
   - Limited duration
   - Bridge to generator
   - Orderly shutdown
   - Depends on load
 
 ##### Backup Power
-- [ ] **Generators**
+- [ ] 🏭 **Generators**
   - Long-term power
   - Diesel or natural gas
   - Automatic transfer switch
   - Fuel storage and maintenance
 
-- [ ] **Power Distribution Units (PDU)**
+- [ ] 🔌 **Power Distribution Units (PDU)**
   - Rack-level distribution
   - Intelligent PDUs
   - Remote monitoring
   - Per-outlet control
 
 ##### Power Management
-- [ ] **Dual power supplies**
+- [ ] 🔄 **Dual power supplies**
   - Redundant PSUs
   - Different circuits
   - Automatic failover
   - Server and network equipment
 
-- [ ] **Managed Power Distribution**
+- [ ] ⚙️ **Managed Power Distribution**
   - Multiple power sources
   - Load balancing
   - Remote management
@@ -1079,38 +1079,38 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
 - [ ] **Watched Professor Messer's "Capacity Planning" video**
 
 ##### Capacity Considerations
-- [ ] **People**
+- [ ] 👥 **People**
   - Staffing levels
   - Skills and training
   - 24/7 coverage
   - Growth planning
 
-- [ ] **Technology**
+- [ ] 💻 **Technology**
   - Hardware resources
   - Software licenses
   - Network bandwidth
   - Storage capacity
 
-- [ ] **Infrastructure**
+- [ ] 🏗️ **Infrastructure**
   - Data center space
   - Power and cooling
   - Physical security
   - Rack space
 
 ##### Performance Monitoring
-- [ ] **Resource utilization**
+- [ ] 📊 **Resource utilization**
   - CPU usage
   - Memory consumption
   - Disk I/O
   - Network throughput
 
-- [ ] **Trending analysis**
+- [ ] 📈 **Trending analysis**
   - Historical data
   - Growth patterns
   - Capacity forecasting
   - Proactive planning
 
-- [ ] **Scalability planning**
+- [ ] 📈 **Scalability planning**
   - Vertical scaling (scale up)
   - Horizontal scaling (scale out)
   - Cloud elasticity
@@ -1120,28 +1120,28 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
 - [ ] **Watched Professor Messer's "Recovery Testing" video**
 
 ##### Testing Types
-- [ ] **Tabletop exercises**
+- [ ] 📋 **Tabletop exercises**
   - Discussion-based
   - Walk through scenarios
   - Low cost
   - Identify gaps
   - No actual execution
 
-- [ ] **Simulation testing**
+- [ ] 🎭 **Simulation testing**
   - Role-playing
   - Simulated disaster
   - Test procedures
   - Practice coordination
   - No system impact
 
-- [ ] **Parallel testing**
+- [ ] ⚖️ **Parallel testing**
   - Alternate site activated
   - Production continues
   - Side-by-side operation
   - Validate capabilities
   - No downtime
 
-- [ ] **Full interruption testing**
+- [ ] 🚨 **Full interruption testing**
   - Complete failover
   - Production switched
   - Most realistic
@@ -1149,44 +1149,44 @@ This study guide follows Professor Messer's CompTIA SY0-701 Security+ Training C
   - Business impact
 
 ##### Recovery Metrics
-- [ ] **Recovery Time Objective (RTO)**
+- [ ] ⏱️ **Recovery Time Objective (RTO)**
   - Maximum acceptable downtime
   - How long to restore
   - Business requirement
   - Drives technology choices
 
-- [ ] **Recovery Point Objective (RPO)**
+- [ ] 📅 **Recovery Point Objective (RPO)**
   - Maximum acceptable data loss
   - Point-in-time recovery
   - Backup frequency
   - Replication strategy
 
-- [ ] **Mean Time to Repair (MTTR)**
+- [ ] 🔧 **Mean Time to Repair (MTTR)**
   - Average repair time
   - Historical metric
   - Improve over time
   - Incident response efficiency
 
-- [ ] **Mean Time Between Failures (MTBF)**
+- [ ] ⚙️ **Mean Time Between Failures (MTBF)**
   - Reliability metric
   - Expected operational time
   - Hardware specifications
   - Maintenance planning
 
 ##### Business Continuity Planning
-- [ ] **Business Impact Analysis (BIA)**
+- [ ] 📊 **Business Impact Analysis (BIA)**
   - Identify critical functions
   - Determine impact of disruption
   - Priority ranking
   - Recovery requirements
 
-- [ ] **Continuity of Operations Planning (COOP)**
+- [ ] 🔄 **Continuity of Operations Planning (COOP)**
   - Maintain essential functions
   - During disruption
   - Alternate locations
   - Resource requirements
 
-- [ ] **Disaster Recovery Plan (DRP)**
+- [ ] 🚨 **Disaster Recovery Plan (DRP)**
   - Technical recovery
   - IT systems and data
   - Step-by-step procedures
