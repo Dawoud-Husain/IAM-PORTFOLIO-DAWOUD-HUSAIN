@@ -1,76 +1,76 @@
 Term,Definition
-💻 Technical controls,"Controls implemented using systems - Operating system controls, firewalls, anti-virus"
-📋 Managerial controls,"Administrative controls - Security policies, standard operating procedures"
-👥 Operational controls,"Controls implemented by people instead of systems - Security guards, awareness programs"
-🔒 Physical controls,"Limit physical access - Guard shack, fences, locks, badge readers"
-🛡️ Preventive,"Block access to a resource - Examples: Firewall rules, security policy, guard shack checks, door locks"
-⚠️ Deterrent,"Discourage an intrusion attempt - does not directly prevent access - Examples: Application splash screen, demotion, reception desk, warning sign"
-🔍 Detective,"Identify and log an intrusion attempt - may not prevent access - Examples: System logs, review login reports, property patrols, motion detectors"
-🔧 Corrective,"Apply a control after event has been detected - reverse impact - continue operating with minimal downtime - Examples: Backup recovery, policies for reporting issues, contact authorities, fire extinguisher"
-🔄 Compensating,"Control using other means - existing controls aren't sufficient, may be temporary - Examples: Block instead of patch, separation of duties, require multiple security staff, power generator"
-📢 Directive,"Direct a subject towards security compliance - weak security control - Examples: File storage policies, compliance policies, security policy training, authorized personnel only signs"
-🔐 Confidentiality,"Prevent disclosure of information to unauthorized individuals or systems - Uses encryption, access controls, two-factor authentication"
-✅ Integrity,"Messages cannot be modified without detection - Uses hashing, digital signatures, certificates, non-repudiation"
-⚡ Availability,"Systems and networks must be up and running - Uses redundancy, fault tolerance, patching"
-✍️ Non-repudiation,"Cannot deny what you've said - like a contract - Proof of integrity and origin - Digital signatures provide non-repudiation"
-🔑 Authentication,"Proving who you are - Username/password, biometrics, MFA"
-🚪 Authorization,"What resources you can access - Permissions and access control lists"
-📊 Accounting,"Tracking what users do - Logging, auditing, monitoring"
-📏 Gap analysis,"Compare current state vs. desired state - Identify security gaps - Create remediation plan - Baseline configuration"
-🎯 Zero Trust,"Never trust, always verify - Assume breach mentality - Least privilege access - Micro-segmentation - Multi-factor authentication everywhere"
-🏢 Physical security controls,"Fences, gates, bollards - Security guards and reception - Badge readers and biometrics - Locks and access control vestibules - Video surveillance - Sensors and alarms"
-🪤 Deception technologies,"Honeypots (decoy systems), Honeynets (network of honeypots), Honeyfiles (fake files), Honeytokens (fake data)"
-💥 Disruption techniques,"Confuse and delay attackers - Gather intelligence on attack methods"
-✓ Change approval process,"Request for change (RFC) - Change management board/committee reviews - Documented approval process"
-📈 Impact analysis,"Business processes impacting security - Risk assessment - Scope of changes"
-📝 Change documentation,"Detailed change plans - Rollback procedures - Version control"
-🧪 Testing and validation,"Test in non-production environment - Validate changes before deployment - User acceptance testing (UAT)"
-⚙️ Change implementation,"Schedule maintenance windows - Execute change plan - Monitor for issues"
-📋 Allow lists/deny lists,"Restrict or allow changes - Application whitelisting - Access control lists"
-⏱️ Downtime considerations,"Plan for service interruptions - Communicate maintenance windows - Minimize impact on operations"
-🔄 Restarts and reboots,"System restart requirements - Service dependencies - Proper restart procedures"
-🏛️ Legacy applications,"Compatibility concerns - Testing with older systems - Migration planning"
-🔗 Dependencies,"Identify system interdependencies - Test dependent systems - Document relationships"
-📄 Documentation,"Version control systems - Change logs - Configuration management database (CMDB)"
-📖 Standard operating procedures (SOPs),"Documented processes - Consistent implementation - Training materials"
-🔐 Public Key Infrastructure (PKI),"Framework for managing digital certificates - Certificate authorities (CA) - Registration authorities (RA) - Certificate revocation lists (CRL) - Online Certificate Status Protocol (OCSP)"
-🤝 Trust models,"Single CA - Hierarchical CA - Mesh/distributed trust"
-♻️ Certificate lifecycle,"Creation and issuance - Validation and renewal - Revocation and expiration"
-🔑 Symmetric encryption,"Same key for encryption and decryption - Fast and efficient - Key distribution challenge - Algorithms: AES, DES, 3DES, RC4, Blowfish"
-🗝️ Asymmetric encryption,"Public and private key pair - Public key encrypts, private key decrypts - Slower than symmetric - Algorithms: RSA, ECC (Elliptic Curve Cryptography), DSA"
-📏 Key length,"Longer keys = stronger encryption - Balance between security and performance"
-💾 Full-disk encryption (FDE),"Encrypt entire drive - BitLocker, FileVault, LUKS - Protects data at rest"
-🗂️ Partition encryption,"Encrypt specific partitions - Selective protection"
-📁 File encryption,"Encrypt individual files - EFS (Encrypting File System) - GPG/PGP"
-📦 Volume encryption,"Encrypt volumes/containers - VeraCrypt, TrueCrypt"
-🗄️ Database encryption,"Encrypt database fields - Transparent Data Encryption (TDE)"
-📝 Record-level encryption,"Encrypt specific records - Granular control"
-🌐 Transport/communication encryption,"TLS/SSL for network traffic - VPNs (IPsec, SSL/TLS VPN) - SSH for remote access"
-#️⃣ Hash functions,"One-way function - Fixed-length output - Verify data integrity - Algorithms: MD5 (weak), SHA-1 (deprecated), SHA-2 (SHA-256, SHA-512), SHA-3"
-💥 Hash collision,"Two inputs produce same hash - Security weakness"
-🧂 Salting,"Add random data to input - Prevents rainbow table attacks - Unique salt per password"
-🏋️ Key stretching,"PBKDF2 (Password-Based Key Derivation Function 2) - Bcrypt - Makes brute force attacks slower"
-🔏 HMAC,"Hash-based Message Authentication Code - Verify integrity and authenticity - Uses secret key with hash"
-✍️ Digital signature process,"Hash document - Encrypt hash with private key - Verify with public key - Provides: authenticity, integrity, non-repudiation"
-🔐 Digital Signature Algorithm (DSA),"Algorithm used for creating digital signatures"
-🔏 RSA for digital signatures,"RSA algorithm used for digital signature creation and verification"
-📞 Out-of-band key exchange,"Separate communication channel - Phone, in-person, courier"
-🔗 In-band key exchange,"Same communication channel - Diffie-Hellman"
-🤝 Diffie-Hellman (DH),"Key agreement protocol - Establish shared secret - DHE (Ephemeral), ECDHE (Elliptic Curve)"
-🛡️ Perfect Forward Secrecy (PFS),"Session keys not compromised if long-term key compromised - Uses ephemeral keys"
-🏦 Key escrow,"Third party holds decryption keys - Recovery option - Privacy concerns"
-🌫️ Code obfuscation,"Make code difficult to understand - Protect intellectual property - Security through obscurity (not recommended as sole security)"
-🖼️ Steganography,"Hide data within other data - Images, audio, video files - Not encryption, just hiding"
-🎫 Tokenization,"Replace sensitive data with token - Token has no meaning outside system - Common in payment processing"
-🎭 Data masking,"Hide original data - Show only necessary parts (e.g., last 4 digits of SSN) - Protects PII"
-📒 Distributed ledger,"Decentralized database - Multiple copies across network - No single point of control"
-⛓️ Blockchain characteristics,"Immutable records - Transparent and verifiable - Consensus mechanisms"
-🧱 Blocks,"Container for data - Hash of previous block - Timestamp - Creates chain"
-📜 Smart contracts,"Self-executing contracts - Code-based agreements - Automated enforcement"
-💎 Blockchain applications,"Cryptocurrencies (Bitcoin, Ethereum) - Supply chain tracking - Digital identity - Voting systems"
-📜 Digital certificates,"X.509 standard - Bind public key to identity - Issued by Certificate Authority"
-📄 Certificate contents,"Subject name - Public key - Issuer information - Validity period - Serial number - Digital signature"
-🏷️ Certificate types,"Domain Validation (DV) - Organization Validation (OV) - Extended Validation (EV) - Wildcard certificates - Subject Alternative Name (SAN)"
-📋 Certificate formats,"PEM (Privacy Enhanced Mail) - DER (Distinguished Encoding Rules) - PFX/P12 (PKCS#12) - CER, CRT"
-📌 Certificate pinning,"Associate certificate with host - Prevent man-in-the-middle attacks - Mobile apps"
-🔗 Certificate chaining,"Root CA → Intermediate CA → End certificate - Chain of trust"
+💻 Technical controls,Controls implemented using systems - Operating system controls, firewalls, anti-virus
+📋 Managerial controls,Administrative controls - Security policies, standard operating procedures
+👥 Operational controls,Controls implemented by people instead of systems - Security guards, awareness programs
+🔒 Physical controls,Limit physical access - Guard shack, fences, locks, badge readers
+🛡️ Preventive,Block access to a resource - Examples: Firewall rules, security policy, guard shack checks, door locks
+⚠️ Deterrent,Discourage an intrusion attempt - does not directly prevent access - Examples: Application splash screen, demotion, reception desk, warning sign
+🔍 Detective,Identify and log an intrusion attempt - may not prevent access - Examples: System logs, review login reports, property patrols, motion detectors
+🔧 Corrective,Apply a control after event has been detected - reverse impact - continue operating with minimal downtime - Examples: Backup recovery, policies for reporting issues, contact authorities, fire extinguisher
+🔄 Compensating,Control using other means - existing controls aren't sufficient, may be temporary - Examples: Block instead of patch, separation of duties, require multiple security staff, power generator
+📢 Directive,Direct a subject towards security compliance - weak security control - Examples: File storage policies, compliance policies, security policy training, authorized personnel only signs
+🔐 Confidentiality,Prevent disclosure of information to unauthorized individuals or systems - Uses encryption, access controls, two-factor authentication
+✅ Integrity,Messages cannot be modified without detection - Uses hashing, digital signatures, certificates, non-repudiation
+⚡ Availability,Systems and networks must be up and running - Uses redundancy, fault tolerance, patching
+✍️ Non-repudiation,Cannot deny what you've said - like a contract - Proof of integrity and origin - Digital signatures provide non-repudiation
+🔑 Authentication,Proving who you are - Username/password, biometrics, MFA
+🚪 Authorization,What resources you can access - Permissions and access control lists
+📊 Accounting,Tracking what users do - Logging, auditing, monitoring
+📏 Gap analysis,Compare current state vs. desired state - Identify security gaps - Create remediation plan - Baseline configuration
+🎯 Zero Trust,Never trust, always verify - Assume breach mentality - Least privilege access - Micro-segmentation - Multi-factor authentication everywhere
+🏢 Physical security controls,Fences, gates, bollards - Security guards and reception - Badge readers and biometrics - Locks and access control vestibules - Video surveillance - Sensors and alarms
+🪤 Deception technologies,Honeypots (decoy systems), Honeynets (network of honeypots), Honeyfiles (fake files), Honeytokens (fake data)
+💥 Disruption techniques,Confuse and delay attackers - Gather intelligence on attack methods
+✓ Change approval process,Request for change (RFC) - Change management board/committee reviews - Documented approval process
+📈 Impact analysis,Business processes impacting security - Risk assessment - Scope of changes
+📝 Change documentation,Detailed change plans - Rollback procedures - Version control
+🧪 Testing and validation,Test in non-production environment - Validate changes before deployment - User acceptance testing (UAT)
+⚙️ Change implementation,Schedule maintenance windows - Execute change plan - Monitor for issues
+📋 Allow lists/deny lists,Restrict or allow changes - Application whitelisting - Access control lists
+⏱️ Downtime considerations,Plan for service interruptions - Communicate maintenance windows - Minimize impact on operations
+🔄 Restarts and reboots,System restart requirements - Service dependencies - Proper restart procedures
+🏛️ Legacy applications,Compatibility concerns - Testing with older systems - Migration planning
+🔗 Dependencies,Identify system interdependencies - Test dependent systems - Document relationships
+📄 Documentation,Version control systems - Change logs - Configuration management database (CMDB)
+📖 Standard operating procedures (SOPs),Documented processes - Consistent implementation - Training materials
+🔐 Public Key Infrastructure (PKI),Framework for managing digital certificates - Certificate authorities (CA) - Registration authorities (RA) - Certificate revocation lists (CRL) - Online Certificate Status Protocol (OCSP)
+🤝 Trust models,Single CA - Hierarchical CA - Mesh/distributed trust
+♻️ Certificate lifecycle,Creation and issuance - Validation and renewal - Revocation and expiration
+🔑 Symmetric encryption,Same key for encryption and decryption - Fast and efficient - Key distribution challenge - Algorithms: AES, DES, 3DES, RC4, Blowfish
+🗝️ Asymmetric encryption,Public and private key pair - Public key encrypts, private key decrypts - Slower than symmetric - Algorithms: RSA, ECC (Elliptic Curve Cryptography), DSA
+📏 Key length,Longer keys = stronger encryption - Balance between security and performance
+💾 Full-disk encryption (FDE),Encrypt entire drive - BitLocker, FileVault, LUKS - Protects data at rest
+🗂️ Partition encryption,Encrypt specific partitions - Selective protection
+📁 File encryption,Encrypt individual files - EFS (Encrypting File System) - GPG/PGP
+📦 Volume encryption,Encrypt volumes/containers - VeraCrypt, TrueCrypt
+🗄️ Database encryption,Encrypt database fields - Transparent Data Encryption (TDE)
+📝 Record-level encryption,Encrypt specific records - Granular control
+🌐 Transport/communication encryption,TLS/SSL for network traffic - VPNs (IPsec, SSL/TLS VPN) - SSH for remote access
+#️⃣ Hash functions,One-way function - Fixed-length output - Verify data integrity - Algorithms: MD5 (weak), SHA-1 (deprecated), SHA-2 (SHA-256, SHA-512), SHA-3
+💥 Hash collision,Two inputs produce same hash - Security weakness
+🧂 Salting,Add random data to input - Prevents rainbow table attacks - Unique salt per password
+🏋️ Key stretching,PBKDF2 (Password-Based Key Derivation Function 2) - Bcrypt - Makes brute force attacks slower
+🔏 HMAC,Hash-based Message Authentication Code - Verify integrity and authenticity - Uses secret key with hash
+✍️ Digital signature process,Hash document - Encrypt hash with private key - Verify with public key - Provides: authenticity, integrity, non-repudiation
+🔐 Digital Signature Algorithm (DSA),Algorithm used for creating digital signatures
+🔏 RSA for digital signatures,RSA algorithm used for digital signature creation and verification
+📞 Out-of-band key exchange,Separate communication channel - Phone, in-person, courier
+🔗 In-band key exchange,Same communication channel - Diffie-Hellman
+🤝 Diffie-Hellman (DH),Key agreement protocol - Establish shared secret - DHE (Ephemeral), ECDHE (Elliptic Curve)
+🛡️ Perfect Forward Secrecy (PFS),Session keys not compromised if long-term key compromised - Uses ephemeral keys
+🏦 Key escrow,Third party holds decryption keys - Recovery option - Privacy concerns
+🌫️ Code obfuscation,Make code difficult to understand - Protect intellectual property - Security through obscurity (not recommended as sole security)
+🖼️ Steganography,Hide data within other data - Images, audio, video files - Not encryption, just hiding
+🎫 Tokenization,Replace sensitive data with token - Token has no meaning outside system - Common in payment processing
+🎭 Data masking,Hide original data - Show only necessary parts (e.g., last 4 digits of SSN) - Protects PII
+📒 Distributed ledger,Decentralized database - Multiple copies across network - No single point of control
+⛓️ Blockchain characteristics,Immutable records - Transparent and verifiable - Consensus mechanisms
+🧱 Blocks,Container for data - Hash of previous block - Timestamp - Creates chain
+📜 Smart contracts,Self-executing contracts - Code-based agreements - Automated enforcement
+💎 Blockchain applications,Cryptocurrencies (Bitcoin, Ethereum) - Supply chain tracking - Digital identity - Voting systems
+📜 Digital certificates,X.509 standard - Bind public key to identity - Issued by Certificate Authority
+📄 Certificate contents,Subject name - Public key - Issuer information - Validity period - Serial number - Digital signature
+🏷️ Certificate types,Domain Validation (DV) - Organization Validation (OV) - Extended Validation (EV) - Wildcard certificates - Subject Alternative Name (SAN)
+📋 Certificate formats,PEM (Privacy Enhanced Mail) - DER (Distinguished Encoding Rules) - PFX/P12 (PKCS#12) - CER, CRT
+📌 Certificate pinning,Associate certificate with host - Prevent man-in-the-middle attacks - Mobile apps
+🔗 Certificate chaining,Root CA → Intermediate CA → End certificate - Chain of trust

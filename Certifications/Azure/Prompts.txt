@@ -1,0 +1,67 @@
+Do not concern yourself with anything outside the Certifications/Azure/AZ-104 folder.
+
+You are to create comprehensive, high-yield study notes for the AZ-104 exam.
+
+Use only the Microsoft Learn MCP. Do not use external sources. See what they include in thier traiing material 
+
+Use exam objectives.txt to structure content exactly by official sub-objectives, one markdown file per sub-objective.
+
+Prioritize content according to AZ-104 domain weightings. Higher-weight domains should be more detailed.
+
+Guidelines:
+
+Bullet points only
+
+No long paragraphs
+
+Tables for comparisons
+
+Include mnemonics
+
+Highlight exam traps clearly
+
+Focus on scenario-based thinking
+
+Optimize for handwriting memorization
+
+Limit each sub-objective to ~3 handwritten pages
+
+
+
+
+Each markdown file MUST follow this structure:
+
+Core Concepts (For this I want it to go over each sub objective like Manage Microsoft Entra users and groups 
+
+    Create users and groups
+
+    Manage user and group properties
+
+    Manage licenses in Microsoft Entra ID
+
+    Manage external users
+
+    Configure self-service password reset (SSPR)
+)
+
+ - note: directly under each core conspets, I want you to put a 2-3 setntecne over view of explaing what it is. then put the rest like definations etc. 
+
+What The Exam Tests
+
+Important Limits / Numbers
+
+CLI + PowerShell Commands
+
+Confusion Matrix (compare similar services)
+
+Decision Rules (If X → Use Y)
+
+5 Common Scenario Patterns
+
+Exam Traps (labeled clearly)
+
+Rapid-Fire Q&A
+
+
+
+now fill in 1.1 
